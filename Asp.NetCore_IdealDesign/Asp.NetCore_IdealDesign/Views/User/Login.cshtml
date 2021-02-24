@@ -1,0 +1,63 @@
+﻿@model LoginVM
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<div class="container my-container">
+    <h2>@ViewData["Title"]  <span class="glyphicon glyphicon-log-in"></span></h2>
+    
+    <div>
+        <h3>Login only for ADMIN</h3>
+        <div col-md-12>
+            <form asp-action="Login" asp-controller="User" method="post">
+                <div class="row">
+                    <div class="col-md2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Username"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
+                            <input class="form-control" type="text" asp-for="Username" />
+                        </div>
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md2"></div>
+                    <div class="col-md-4">
+                        <label asp-for="Password"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-lock"></span></span>
+                            <input class="form-control" type="password" asp-for="Password" />
+                        </div>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="col-md-2">
+                            <button type="submit" class="btn btn-success">Log in</button>
+                        </div>
+                    </div>
+
+                </div>
+            </form>
+            <br />
+        </div>
+    </div>
+
+</div>
+
+<style type="text/css">
+    .my-container {
+        /*border: 3px solid black;*/
+        /*padding: 50px;*/
+        margin-top: 250px;
+        width: 100%;
+        height: auto;
+        background-color: #969696;
+        padding-left: 130px;
+    }
+
+</style>

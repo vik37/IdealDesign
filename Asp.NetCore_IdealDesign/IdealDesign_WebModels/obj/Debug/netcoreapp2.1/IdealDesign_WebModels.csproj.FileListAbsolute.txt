@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\bin\Debug\netcoreapp2.1\IdealDesign_WebModels.deps.json
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\bin\Debug\netcoreapp2.1\IdealDesign_WebModels.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\bin\Debug\netcoreapp2.1\IdealDesign_WebModels.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\obj\Debug\netcoreapp2.1\IdealDesign_WebModels.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\obj\Debug\netcoreapp2.1\IdealDesign_WebModels.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\obj\Debug\netcoreapp2.1\IdealDesign_WebModels.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\obj\Debug\netcoreapp2.1\IdealDesign_WebModels.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\obj\Debug\netcoreapp2.1\IdealDesign_WebModels.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_WebModels\obj\Debug\netcoreapp2.1\IdealDesign_WebModels.csprojAssemblyReference.cache

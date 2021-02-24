@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_DataAccess.deps.json
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_DataAccess.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_DataAccess.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_Domain.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_Domain.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.csproj.CopyComplete
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_DataAccess.runtimeconfig.json
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\bin\Debug\netcoreapp2.1\IdealDesign_DataAccess.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_DataAccess\obj\Debug\netcoreapp2.1\IdealDesign_DataAccess.genruntimeconfig.cache

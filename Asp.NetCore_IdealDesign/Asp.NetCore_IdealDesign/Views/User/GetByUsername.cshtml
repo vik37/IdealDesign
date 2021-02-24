@@ -1,0 +1,253 @@
+﻿@model UserVM
+@{
+    ViewData["Title"] = Model.Username;
+}
+
+<div class="container my-container">
+    <div class="col-md-12">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+
+    @*<div class="col-md-10"></div>*@
+    <div class="row"></div>
+    <div class="col-md-2">
+        <form enctype="multipart/form-data" asp-action="GetByUsername" asp-controller="User" method="post">
+            <div class="row">
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="Username" />
+                <input type="hidden" asp-for="Fullname" />
+                <div class="col-md-10"></div>
+                <div class="col-md-2"></div>
+                <div class="input-group">
+                    @Html.DropDownListFor(product => product.ProductType, Html.GetEnumSelectList(Model.ProductType.GetType()))
+
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-10"></div>
+                <div class="col-md-2"></div>
+                <div class="upload">
+
+                    <label asp-for="Photos" class="input-group labelImg fas fa-camera-retro"></label>
+                    <br />
+
+                    @*<i class="far fa-file-image"></i>*@
+                    <input multiple asp-for="Photos" type="file" name="Photos" id="Photos" accept="image/jpeg"
+                           class="input-group image" />
+
+                </div>
+            </div>
+
+            <br />
+            <div class="row">
+                <div class="col-md-10"></div>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-info" disabled>Upload</button>
+                    @*<i class="fas fa-camera-retro"></i>*@
+                </div>
+            </div>
+        </form>
+
+    </div>
+    <div class="col-md-6"></div>
+    <div class="col-md-1 container-nav">
+        <ul class="list-group">
+            <li class="list-group-item-text navbar-collapse">
+                <a class="link-applicants" asp-area="" asp-controller="Career" asp-action="Applicants">
+                APPLICANTS</a>
+            </li>
+        </ul>
+        
+    </div>
+
+    <div class="row"></div>
+    <div class="col-md-1"></div>    
+    <div class="container-msg  col-md-4">       
+        <p class="upload-msg"></p>
+        <p class="text-danger error-msg">@ViewBag.ImageError</p>
+    </div>
+</div>
+
+
+<style type="text/css">
+    .my-container {
+        /*border: 3px solid black;*/
+        /*padding: 50px;*/
+        margin-top: 250px;
+        width: 100%;
+        height: auto;
+        background-color: #969696;
+        padding-left: 130px;
+    }
+    h2 {
+        font-size: 28px;
+        color: rgba(64, 160, 219,0.8);
+        text-shadow: 2px 2px 2px #fff;
+        letter-spacing: 3px;
+        text-decoration: underline;
+        font-family: 'Felix Titling';
+        font-weight: 600;
+        background-color: rgba(0, 0, 0, 0.64);
+        text-align: center;
+        width: 270px;
+        height: 75px;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius: 60px;
+        border-left: 10px solid black;
+        border-right: 10px solid black;
+    }
+    form{
+        border:6px groove;
+        width:500px;
+        margin:8px;
+        padding:5px 50px;
+        background-color:black;
+        border-radius:30px;
+    }
+    select {
+        width: 250px;
+        height: 34px;
+        border: 5px ridge #e6e4aa;
+        border-radius: 10px;
+        font-size: 19px;
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 2px;
+        outline: none;
+        margin: 0 90px;
+    }
+        select > * {
+            border-radius: 10px;
+            background-color: black;
+            color: white;
+            
+        }
+        select:hover {
+            color: #3ec20e;
+            background-color: rgba(0, 0, 0, 0.67);
+        }
+    label {
+        font-size: 28px;
+        color: white;
+        text-shadow: 2px 2px 4px #0ea4c2;
+        margin-bottom: 10px;
+        cursor: pointer;
+        background-image: repeating-linear-gradient(to right, rgba(225, 174, 33,0.59) 10%, rgba(192, 212, 11, 0.69) 10%,
+           rgba(142, 12, 220,0.47) 20%);
+        border: inset 4px white;
+        border-bottom-right-radius: 10px;
+        border-top-right-radius: 10px;
+        width: 200px;
+        height: 50px;
+        text-align: center;
+        padding-top:5px;
+    }
+
+        .fa-camera-retro::before {
+            margin-right: 14px;
+            background-color: rgba(181, 129, 0, 0.78);
+            border: 1px outset rgba(255, 151, 82,0.70);
+            border-radius: 2px;
+            text-decoration: underline;
+        }
+    .upload {
+        
+        width: 300px;
+        height: 100px;
+        padding: 20px 15px;
+        
+        margin:0 100px;
+    }
+        input[type="file"]{
+            display:none;
+        }
+    .btn {
+        margin: 0 120px;
+        width:150px;
+        
+    }
+    .container-msg{
+        width:25%;
+        height:auto;
+        background-color:rgba(255, 255, 255, 0.68);
+        color:green;
+        font-size:18px;
+        text-align:center;
+        text-shadow:1px 2px 2px rgb(255, 255, 255);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin:5px auto;
+        padding-top:10px;
+        border-left:10px dashed black;
+        border-right:10px double black;
+        border-radius:30px;
+    }
+    .container-nav {
+        width: 190px;
+        background-color: #000000;
+        border: 4px double rgba(255, 255, 255, 0.96);
+        box-shadow: rgba(255, 255, 255,0.89) -20px -10px 60px inset;
+    }
+    ul {
+        list-style-type: georgian;
+        
+    }
+    .link-applicants {
+        color: #fff703;
+        font-size: 18px;
+        text-shadow: -2px -2px 2px #dd03ff;
+        letter-spacing:1.4px;
+        
+    }
+    .link-applicants:hover{
+        color:#ffffff;
+        font-size:21px;
+        box-shadow: rgba(255, 255, 255,0.89) -30px -30px 60px;
+        width:100px;
+        
+    }
+</style>
+
+<script type="text/javascript">
+
+
+    let label =  document.getElementsByClassName("labelImg")[0];
+    let upload = document.getElementsByClassName("image")[0];
+    let uploadMsg = document.getElementsByClassName("upload-msg")[0];
+    let errorMsg = document.getElementsByClassName("error-msg")[0];
+
+    //if (errorMsg.value === "") {
+    //    document.getElementsByClassName(".container-msg")[0].outerHTML.
+    //}
+    
+   
+    upload.addEventListener("change", function () {
+        
+        if (upload.value.length !== 0) {
+            let fileName = upload.value;
+            let idxDot = fileName.lastIndexOf(".") + 1;
+            let extFile = fileName.substring(idxDot, fileName.length).toLowerCase();
+
+            //console.log(idxDot);
+
+            if ((extFile === "jpg") || (extFile === "JPG")
+                || (extFile === "JPEG") || (extFile === "jpeg")) {
+                uploadMsg.textContent = upload.value;
+                document.getElementsByClassName("btn")[0].disabled = false;
+                errorMsg.textContent = "";
+            }
+            else {
+                errorMsg.textContent = "Files are NOT allowed. Only jpg/jpeg files are allowed!";
+                upload.value = "";
+                uploadMsg.textContent = "";
+                document.getElementsByClassName("btn")[0].disabled = true;
+            }
+        }
+        else {
+            errorMsg.textContent = "Please select file";
+            uploadMsg.textContent = "";
+            document.getElementsByClassName("btn")[0].disabled = true;
+        }      
+        
+    });
+</script>

@@ -1,0 +1,143 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+<div class="container my-container">
+    <div class="block-1">
+        <h2>@ViewData["Title"]</h2>
+        <h3>@ViewData["Message"]</h3>
+
+        <address>
+            For a Good Solution and a Good Choice for Interior Design - <br />
+            Choose the <b>IDEAL DESIGN</b>.
+            <br />
+            <abbr title="City">City:</abbr>
+            Skpje<br />
+            <abbr title="Street:">Street:</abbr>
+            Finska No.178<br />
+            <abbr title="Phone">PHONE:</abbr>
+            071/234-025
+        </address>
+
+        <address>
+            <strong>E-mail:</strong> <a class="mail-ideal" href="IdealDesignInterior@outlook.com">IdealDesignInterior@outlook.com</a><br />
+            <hr />
+            <div class="col-xs-6 col-md-1">
+                <a href="https://www.facebook.com/vladimir.zafirovski.5/" target="_blank">
+                    <i class="fab fa-facebook-square" style="font-size: 28px; text-shadow: 1px 1px 1px white">&#xf230;</i>
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-1">
+                <a href="https://twitter.com/zafirovski_vla" target="_blank">
+                    <i class="fab fa-twitter-square" style="font-size: 28px; text-shadow: 1px 1px 1px white"></i>
+                </a>
+            </div>
+            
+        </address>
+    </div>
+    <br />
+
+    <div class="row lineBetween"></div>
+    <div class="block-2">
+        <h3>Marketing</h3>
+        <h4>Web Product and Design</h4>
+        <address>
+            <div class="col-md-3">
+                This Webside - <i class="under">IDEAL DESIGN</i> <br />
+                was developed and designed by<br />
+                <strong>VIKTOR ZAFIROVSKI</strong><br />                              
+            </div>                        
+        </address>
+        <address>
+
+            <div class="row">   </div>
+            <hr />
+            <b><i><abbr style="color:GrayText; font-size:18px" title="Contact">- CONTACT: -</abbr></i></b>
+            <br />
+            <br />
+            <div class="col-xs-6 col-md-3" >
+                <strong>Marketing:</strong> <a href="mailto:vik.zafirovski@gmail.com">vik.zafirovski@gmail.com</a>
+            </div>           
+            <div class="col-xs-6 col-md-1">
+                <a href="https://www.facebook.com/viktor.zafirovski/" target="_blank">
+                    <i class="fab fa-facebook-square" style="font-size: 28px; text-shadow: 1px 1px 1px white">&#xf230;</i>
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-4">
+                <a href="https://www.linkedin.com/in/viktor-zafirovski-8165725a/" target="_blank">
+                    <i class="fab fa-linkedin" style="font-size: 28px; text-shadow: 1px 1px 1px white"></i>
+                </a>
+            </div>           
+            <div class="col-xs-6 col-md-3">
+                <p style="padding-top:4px">&copy; Product by: VIKTOR ZAFIROVSKI</p>
+            </div>
+        </address>
+    </div>    
+</div>
+<style type="text/css">
+    body{
+        padding-bottom:0;
+    }
+    .my-container {
+        margin-top: 250px;
+        width: 100%;
+        height: auto;
+        background-color: #969696;
+    }
+    h2 {
+        font-size: 28px;
+        color: rgba(64, 160, 219,0.8);
+        text-shadow: 2px 2px 3px #fff;
+        letter-spacing: 3.5px;
+        text-decoration: underline;
+        font-family: 'Felix Titling';
+        font-weight: 600;
+        background-color: rgba(0, 0, 0, 0.64);
+        text-align: center;
+        width: 750px;
+        height: 40px;
+        margin: 0 auto;
+        padding: 2px;
+        border-radius: 60px;
+        border-left: 10px solid black;
+        border-right: 10px solid black;
+    }
+    h3 {
+        letter-spacing: 0.9px;
+        color: rgba(0, 0, 0, 0.87);
+        text-shadow: 1px 1px 2px rgb(255, 255, 255);
+    }
+    address{
+        font-size:15px;
+        letter-spacing:0.9px;
+        color:rgba(255, 255, 255, 0.87);
+        text-shadow:1px 1px 2px rgb(0, 0, 0);
+        margin-left:100px;
+    }
+    .mail-ideal {
+        text-shadow: 1px 1px 1px rgb(255, 255, 255);
+        font-size:14px;
+        font-weight:600;
+        background-color:rgba(255, 255, 255, 0.31);
+        
+    }
+    .mail-ideal:hover{
+        color:rgb(255, 255, 255);
+        text-shadow: 1px 1px 1px rgb(11, 197, 238);
+    }
+    .lineBetween {
+        background-color: black;
+        width: 100%;
+        height: 8px;
+        border-top: 2px dashed rgba(255, 231, 0, 0.90);
+        border-bottom: 2px dashed rgba(255, 231, 0, 0.90);
+        margin:20px 0 10px 0;
+    }
+    .under{
+        text-decoration:underline;
+        color:rgb(0, 0, 0);
+        font-size:15px;
+    }
+    footer{
+        display:none;
+    }
+</style>
