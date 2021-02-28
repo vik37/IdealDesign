@@ -1,9 +1,10 @@
-﻿<!DOCTYPE html>
+﻿@inject IViewLocalizer localizer;
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Ideal Design</title>
+    <title>@ViewData["Title"] - @localizer["Ideal Design"]</title>
     
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -26,20 +27,25 @@
         <div class="container">
             <div>
                 <h1>IDEAL DESIGN STUDIO</h1>
+                <Div class="col-md-8">   </Div>
+                <div class="col-xs-6 col-md-3">
+                    @await Html.PartialAsync("SelectLanguagePartialView")
+                </div>
                 @if (User.Identity.IsAuthenticated)
                 {
-                    
-                        <a asp-controller="User" asp-action="Logout">Logout</a>
-                        
+
+                    <a asp-controller="User" asp-action="Logout">Logout</a>
+
 
                 }
                 else
                 {
-                    
-                        <a asp-controller="User" asp-action="Login">Login</a>
-                    
+
+                    <a asp-controller="User" asp-action="Login">Login</a>
+
                 }
             </div>
+            
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -47,17 +53,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                
+
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">HOME</a></li>
-                    <li><a asp-area="" asp-controller="Product" asp-action="Products">PRODUCT</a></li>
-                    <li><a asp-area="" asp-controller="Product" asp-action="Galery">GALERY</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="About">ABOUT US</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Contact">CONTACT</a></li>
-                    <li><a asp-area="" asp-controller="Career" asp-action="Create">CAREER</a></li>
-                </ul>                
+                    <li><a asp-area="" asp-controller="Home" asp-action="Index">@localizer["HOME"]</a></li>
+                    <li><a asp-area="" asp-controller="Product" asp-action="Products">@localizer["PRODUCT"]</a></li>
+                    <li><a asp-area="" asp-controller="Product" asp-action="Galery">@localizer["GALERY"]</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="About">@localizer["ABOUT US"]</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Contact">@localizer["CONTACT"]</a></li>
+                    <li><a asp-area="" asp-controller="Career" asp-action="Create">@localizer["CAREER"]</a></li>
+                </ul>
             </div>
         </div>
     </nav>
@@ -79,10 +85,10 @@
                 </a>
             </div>
             @*<div class="col-xs-1 col-md-1">
-                <a href="mailto: IdealDesignInterior@outlook.com" target="_blank">
-                    <i class="fas fa-at" style="font-size:20px;"></i>
-                </a>
-            </div>*@
+            <a href="mailto: IdealDesignInterior@outlook.com" target="_blank">
+                <i class="fas fa-at" style="font-size:20px;"></i>
+            </a>
+        </div>*@
             <div class="col-xs-6 col-md-7">
                 <a href="mailto: IdealDesignInterior@outlook.com" target="_blank">
                     <p style="font-size:18px; text-shadow:1px 1px 1px white">IdealDesignInterior@outlook.com</p>
@@ -91,6 +97,7 @@
             <div class="col-xs-6 col-md-3">
                 <p style="padding-top:4px">&copy; Product by: VIKTOR ZAFIROVSKI</p>
             </div>
+            
         </footer>
     </div>
 

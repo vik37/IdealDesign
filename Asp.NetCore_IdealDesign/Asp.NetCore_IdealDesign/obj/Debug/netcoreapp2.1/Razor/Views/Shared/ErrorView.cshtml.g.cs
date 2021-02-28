@@ -43,8 +43,13 @@ using IdealDesign_WebModels.EnumsVM;
 
 #line default
 #line hidden
+#line 7 "C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Mvc.Localization;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0f93baa056ed744304a1a7b2af1127338c40338b", @"/Views/Shared/ErrorView.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f0d11fed54bc6cfc6dc5a0f5bfe5fdbec42bb42a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ddca1ec8123faa4e059224c7701441ef446b3e2d", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_ErrorView : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Home", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -90,7 +95,7 @@ using IdealDesign_WebModels.EnumsVM;
                 ");
             EndContext();
             BeginContext(323, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e45f9ea5a42440a19d78c87be398c374", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fbf35efaa66045c5a442b9e9a2a1408d", async() => {
                 BeginContext(387, 8, true);
                 WriteLiteral("Homepage");
                 EndContext();

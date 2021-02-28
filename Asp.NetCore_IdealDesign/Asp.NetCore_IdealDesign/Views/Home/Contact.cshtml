@@ -1,4 +1,5 @@
-﻿@{
+﻿@inject IViewLocalizer _localizer; 
+@{
     ViewData["Title"] = "Contact";
 }
 <div class="container my-container">
@@ -7,14 +8,14 @@
         <h3>@ViewData["Message"]</h3>
 
         <address>
-            For a Good Solution and a Good Choice for Interior Design - <br />
-            Choose the <b>IDEAL DESIGN</b>.
+            @_localizer["For a Good Solution and a Good Choice for Interior Design"] - <br />
+            @_localizer["Choose the"]<b> @_localizer["IDEAL DESIGN"]</b>.
             <br />
-            <abbr title="City">City:</abbr>
-            Skpje<br />
-            <abbr title="Street:">Street:</abbr>
-            Finska No.178<br />
-            <abbr title="Phone">PHONE:</abbr>
+            <abbr title="City">@_localizer["City"]:</abbr>
+            @_localizer["Skpоje"]<br />
+            <abbr title="Street:">@_localizer["Street"]:</abbr>
+            @_localizer["Finska No"].178<br />
+            <abbr title="Phone">@_localizer["PHONE"]:</abbr>
             071/234-025
         </address>
 
@@ -38,24 +39,24 @@
 
     <div class="row lineBetween"></div>
     <div class="block-2">
-        <h3>Marketing</h3>
-        <h4>Web Product and Design</h4>
+        <h3>@_localizer["Marketing"]</h3>
+        <h4>@_localizer["Web Product and Design"]</h4>
         <address>
             <div class="col-md-3">
-                This Webside - <i class="under">IDEAL DESIGN</i> <br />
-                was developed and designed by<br />
-                <strong>VIKTOR ZAFIROVSKI</strong><br />                              
+                @_localizer["This Website"] - <i class="under">@_localizer["IDEAL DESIGN"]</i> <br />
+                @_localizer["was developed and designed by"]<br />
+                <strong>@_localizer["VIKTOR ZAFIROVSKI"]</strong><br />                              
             </div>                        
         </address>
         <address>
 
             <div class="row">   </div>
             <hr />
-            <b><i><abbr style="color:GrayText; font-size:18px" title="Contact">- CONTACT: -</abbr></i></b>
+            <b><i><abbr style="color:GrayText; font-size:18px" title="Contact">- @_localizer["CONTACT"]: -</abbr></i></b>
             <br />
             <br />
             <div class="col-xs-6 col-md-3" >
-                <strong>Marketing:</strong> <a href="mailto:vik.zafirovski@gmail.com">vik.zafirovski@gmail.com</a>
+                <strong>@_localizer["Marketing"]:</strong> <a href="mailto:vik.zafirovski@gmail.com">vik.zafirovski@gmail.com</a>
             </div>           
             <div class="col-xs-6 col-md-1">
                 <a href="https://www.facebook.com/viktor.zafirovski/" target="_blank">
@@ -68,7 +69,7 @@
                 </a>
             </div>           
             <div class="col-xs-6 col-md-3">
-                <p style="padding-top:4px">&copy; Product by: VIKTOR ZAFIROVSKI</p>
+                <p style="padding-top:4px">&copy; @_localizer["Product by"]: @_localizer["VIKTOR ZAFIROVSKI"]</p>
             </div>
         </address>
     </div>    

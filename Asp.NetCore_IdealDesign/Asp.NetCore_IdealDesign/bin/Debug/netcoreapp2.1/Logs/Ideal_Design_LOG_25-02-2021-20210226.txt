@@ -1,0 +1,2874 @@
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV01"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV10"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2K"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV08"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0R"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV00"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV02"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV18"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1L"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0Q"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV19"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVS"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0P"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1E"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVP"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV06"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVV"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0O"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1T"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV07"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1A"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0T"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1F"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2Q"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1S"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0F"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2C"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVU"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1O"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0D"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2J"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2A"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2P"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1N"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1Q"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV11"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVN"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1I"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2M"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVO"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVT"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0J"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV20"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2L"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1B"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV14"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0L"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV13"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1K"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV05"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1P"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2F"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV21"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV27"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0I"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV16"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1G"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0A"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1J"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0G"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2O"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1H"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1V"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0U"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2H"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0V"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1U"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0H"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1M"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV01"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2E"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV29"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0M"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV10"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV22"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0K"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVR"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1D"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV28"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV26"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2G"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV01"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2K"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV10"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV08"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0R"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV24"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1R"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV08"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV03"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV25"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVQ"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV00"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2D"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV02"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV00"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV04"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1L"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0C"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV18"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0Q"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0S"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV18"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2B"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2K"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV23"" received FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV02"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0R"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV19"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1E"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVP"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV06"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVV"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0O"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1T"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV07"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1A"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0Q"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVS"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1A"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0P"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2Q"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1S"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0T"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0F"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2C"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVU"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1O"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0D"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2J"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2A"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2P"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1F"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1N"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV11"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1Q"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVN"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1I"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2M"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVT"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVO"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0J"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV20"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2L"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1B"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV14"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0L"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV13"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1K"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV05"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1P"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2F"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV21"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV27"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0I"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV16"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1G"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0A"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1J"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0G"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2O"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1H"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1V"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0U"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0V"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2H"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0H"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2Q"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1U"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2E"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1M"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV29"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0M"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV22"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0K"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVR"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1D"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV28"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV26"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2G"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV24"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV10"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV01"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1R"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV03"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV25"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVQ"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2D"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV04"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0C"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1L"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV00"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2B"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV18"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV23"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2A"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV08"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0S"" disconnecting.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1E"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2K"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVV"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1Q"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV06"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV07"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0F"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1I"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVU"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0I"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV19"" sending FIN.
+
+00:00:20 [Information] () Request starting HTTP/1.1 POST http://localhost:44313/Career/Create multipart/form-data; boundary=----WebKitFormBoundaryA2ALQN3gsu2GGD85 844
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0R"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1T"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0O"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0T"" sending FIN.
+
+00:00:20 [Debug] () "POST" requests are not supported
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1O"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0D"" sending FIN.
+
+00:00:20 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVT"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVO"" sending FIN.
+
+00:00:20 [Debug] () "POST" requests are not supported
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV20"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2M"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2L"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV16"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0L"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1G"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV05"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0U"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1U"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0G"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV02"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2O"" sending FIN.
+
+00:00:20 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV28"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0A"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1F"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2G"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0Q"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2E"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1D"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVS"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1M"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2J"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1S"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2C"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0M"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0J"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV14"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV22"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVP"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1N"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV26"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0P"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV25"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVN"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2P"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV11"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2D"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1A"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2Q"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVQ"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1B"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1K"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2F"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV13"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV27"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1J"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0K"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1V"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVR"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0V"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV24"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1R"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV04"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1E"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV03"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVV"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0C"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2B"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1Q"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1L"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV06"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1I"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVU"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0F"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1P"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2A"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0T"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0D"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0S"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV21"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1O"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVO"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVT"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1T"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2L"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0L"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV20"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1G"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV16"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0U"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV05"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0I"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0G"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2M"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV07"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1H"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV28"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0O"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1U"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1F"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0A"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1D"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2G"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2E"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVS"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1S"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1M"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV23"" sending FIN.
+
+00:00:20 [Information] () Route matched with "{action = \"Create\", controller = \"Career\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Create(IdealDesign_WebModels.VewModels.CareerVM)" on controller "Asp.NetCore_IdealDesign.Controllers.CareerController" ("Asp.NetCore_IdealDesign").
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0J"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2O"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0M"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVP"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1N"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0P"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2P"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVN"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV25"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV26"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2D"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV11"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1B"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2F"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2C"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2J"" stopped.
+
+00:00:20 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1K"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV27"" stopped.
+
+00:00:20 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:00:20 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV14"" stopped.
+
+00:00:20 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV19"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV22"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2H"" sending FIN.
+
+00:00:20 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0K"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1V"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV13"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV24"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1R"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVR"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV04"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV03"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2B"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0C"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQUVQ"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1P"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0S"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV21"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1H"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV23"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2H"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0V"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0H"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1J"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV29"" sending FIN.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0H"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV29"" stopped.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2I"", Request id ""0HM6PS20DQV2I:00000004"": started reading request body.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2I"", Request id ""0HM6PS20DQV2I:00000004"": done reading request body.
+
+00:00:20 [Debug] () Attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.CareerVM"' ...
+
+00:00:20 [Debug] () Attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.CareerVM"' using the name '""' in request data ...
+
+00:00:20 [Debug] () Could not find a value in the request with name '"Id"' for binding property '"IdealDesign_WebModels.VewModels.CareerVM"."Id"' of type '"System.Int32"'.
+
+00:00:20 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Id"' of type '"System.Int32"'.
+
+00:00:20 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Firstname"' of type '"System.String"' using the name '"Firstname"' in request data ...
+
+00:00:20 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Firstname"' of type '"System.String"'.
+
+00:00:20 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Lastname"' of type '"System.String"' using the name '"Lastname"' in request data ...
+
+00:00:20 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Lastname"' of type '"System.String"'.
+
+00:00:20 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Phone"' of type '"System.String"' using the name '"Phone"' in request data ...
+
+00:00:20 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Phone"' of type '"System.String"'.
+
+00:00:20 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Description"' of type '"System.String"' using the name '"Description"' in request data ...
+
+00:00:20 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Description"' of type '"System.String"'.
+
+00:00:20 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Resume"' of type '"Microsoft.AspNetCore.Http.IFormFile"' using the name '"Resume"' in request data ...
+
+00:00:20 [Debug] () No files found in the request to bind the model to.
+
+00:00:20 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.CareerVM"."Resume"' of type '"Microsoft.AspNetCore.Http.IFormFile"'.
+
+00:00:20 [Debug] () Done attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.CareerVM"'.
+
+00:00:20 [Debug] () Done attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.CareerVM"'.
+
+00:00:20 [Debug] () Attempting to validate the bound parameter '"model"' of type '"IdealDesign_WebModels.VewModels.CareerVM"' ...
+
+00:00:20 [Debug] () Done attempting to validate the bound parameter '"model"' of type '"IdealDesign_WebModels.VewModels.CareerVM"'.
+
+00:00:20 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Create (Asp.NetCore_IdealDesign)" - Validation state: Invalid
+
+00:00:20 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Create (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 1.5791ms.
+
+00:00:20 [Debug] () View lookup cache hit for view '"Create"' in controller '"Career"'.
+
+00:00:20 [Information] () Executing ViewResult, running view "Create".
+
+00:00:20 [Debug] () The view path '"/Views/Career/Create.cshtml"' was found in 0.1437ms.
+
+00:00:20 [Debug] () An antiforgery cookie token was reused.
+
+00:00:20 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Career"'.
+
+00:00:20 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Career"'.
+
+00:00:20 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:00:20 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.24ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:00:20 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Career"'.
+
+00:00:20 [Information] () Executed ViewResult - view "Create" executed in 13.8305ms.
+
+00:00:20 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.CareerController.Create (Asp.NetCore_IdealDesign)" in 94.2008ms
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 111.6784ms 200 text/html; charset=utf-8
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:00:20 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:00:20 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:00:20 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:00:20 [Information] () Request finished in 13.1043ms 200 application/javascript
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:00:20 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 31.1308ms 200 application/javascript
+
+00:00:20 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:00:20 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 88.6214ms 200 application/javascript
+
+00:00:20 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:00:20 [Information] () Request finished in 90.0225ms 200 text/css
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 90.2417ms 200 text/css
+
+00:00:20 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 95.8054ms 200 application/javascript
+
+00:00:20 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 77.593ms 200 text/css
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2  
+
+00:00:20 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 1.8911ms 200 font/woff2
+
+00:00:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:00:20 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:00:20 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:00:20 [Information] () Request finished in 4.9048ms 200 font/woff2
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/User/Login  
+
+00:01:05 [Debug] () The request path "/User/Login" does not match a supported file type
+
+00:01:05 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:01:05 [Debug] () The request path "" does not match the path filter
+
+00:01:05 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:01:05 [Debug] () Action '"Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)"' with id '"90b7c277-ac5e-411c-bc50-03b81cbbba7f"' did not match the constraint '"Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint"'
+
+00:01:05 [Information] () Route matched with "{action = \"Login\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Login()" on controller "Asp.NetCore_IdealDesign.Controllers.UserController" ("Asp.NetCore_IdealDesign").
+
+00:01:05 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:01:05 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:05 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:01:05 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:01:05 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:05 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:01:05 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.2678ms.
+
+00:01:05 [Debug] () View lookup cache miss for view '"Login"' in controller '"User"'.
+
+00:01:05 [Debug] () Using precompiled view for '"/Views/User/Login.cshtml"'.
+
+00:01:05 [Information] () Executing ViewResult, running view "Login".
+
+00:01:05 [Debug] () The view path '"/Views/User/Login.cshtml"' was found in 10.6536ms.
+
+00:01:05 [Debug] () An antiforgery cookie token was reused.
+
+00:01:05 [Debug] () View lookup cache miss for view '"_Layout"' in controller '"User"'.
+
+00:01:05 [Debug] () Using precompiled view for '"/Views/Shared/_Layout.cshtml"'.
+
+00:01:05 [Debug] () View lookup cache miss for view '"_CookieConsentPartial"' in controller '"User"'.
+
+00:01:05 [Debug] () Using precompiled view for '"/Views/Shared/_CookieConsentPartial.cshtml"'.
+
+00:01:05 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:01:05 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.2222ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:01:05 [Debug] () View lookup cache miss for view '"Components/NToastNotify/Default"' in controller '"User"'.
+
+00:01:05 [Debug] () Using precompiled view for '"/Views/Shared/Components/NToastNotify/Default.cshtml"'.
+
+00:01:05 [Information] () Executed ViewResult - view "Login" executed in 54.913ms.
+
+00:01:05 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)" in 67.8191ms
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:01:05 [Information] () Request finished in 71.8767ms 200 text/html; charset=utf-8
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:01:05 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:01:05 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:01:05 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:01:05 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:01:05 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:01:05 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:01:05 [Information] () Request finished in 23.2038ms 200 application/javascript
+
+00:01:05 [Information] () Request finished in 29.8273ms 200 text/css
+
+00:01:05 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:01:05 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:01:05 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:01:05 [Information] () Request finished in 18.7166ms 200 application/javascript
+
+00:01:05 [Information] () Request finished in 30.8122ms 200 application/javascript
+
+00:01:05 [Information] () Request finished in 31.0705ms 200 application/javascript
+
+00:01:05 [Information] () Request finished in 38.5949ms 200 text/css
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:01:05 [Information] () Request finished in 32.1167ms 200 text/css
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2  
+
+00:01:05 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:01:05 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2"'
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:01:05 [Information] () Request finished in 1.3773ms 200 font/woff2
+
+00:01:05 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:01:05 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:01:05 [Information] () Request finished in 4.7069ms 200 font/woff2
+
+00:01:17 [Information] () Request starting HTTP/1.1 POST http://localhost:44313/User/Login application/x-www-form-urlencoded 224
+
+00:01:17 [Debug] () "POST" requests are not supported
+
+00:01:17 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:01:17 [Debug] () "POST" requests are not supported
+
+00:01:17 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:01:17 [Information] () Route matched with "{action = \"Login\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Login(IdealDesign_WebModels.VewModels.LoginVM)" on controller "Asp.NetCore_IdealDesign.Controllers.UserController" ("Asp.NetCore_IdealDesign").
+
+00:01:17 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:01:17 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:17 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:01:17 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:01:17 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:17 [Debug] () Connection id ""0HM6PS20DQV2I"", Request id ""0HM6PS20DQV2I:00000006"": started reading request body.
+
+00:01:17 [Debug] () Connection id ""0HM6PS20DQV2I"", Request id ""0HM6PS20DQV2I:00000006"": done reading request body.
+
+00:01:17 [Debug] () Attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.LoginVM"' ...
+
+00:01:17 [Debug] () Attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.LoginVM"' using the name '""' in request data ...
+
+00:01:17 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.LoginVM"."Username"' of type '"System.String"' using the name '"Username"' in request data ...
+
+00:01:17 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.LoginVM"."Username"' of type '"System.String"'.
+
+00:01:17 [Debug] () Attempting to bind property '"IdealDesign_WebModels.VewModels.LoginVM"."Password"' of type '"System.String"' using the name '"Password"' in request data ...
+
+00:01:17 [Debug] () Done attempting to bind property '"IdealDesign_WebModels.VewModels.LoginVM"."Password"' of type '"System.String"'.
+
+00:01:17 [Debug] () Done attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.LoginVM"'.
+
+00:01:17 [Debug] () Done attempting to bind parameter '"model"' of type '"IdealDesign_WebModels.VewModels.LoginVM"'.
+
+00:01:17 [Debug] () Attempting to validate the bound parameter '"model"' of type '"IdealDesign_WebModels.VewModels.LoginVM"' ...
+
+00:01:17 [Debug] () Done attempting to validate the bound parameter '"model"' of type '"IdealDesign_WebModels.VewModels.LoginVM"'.
+
+00:01:17 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:01:17 [Debug] () Authenticating user with username: vlatko77
+
+00:01:17 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:01:17 [Debug] () Compiling query model: "
+"'"(from User u in DbSet<User>
+where [u].NormalizedUserName == __normalizedUserName_0
+select [u]).FirstOrDefault()"'
+
+00:01:17 [Debug] () Optimized query model: "
+"'"(from User u in DbSet<User>
+where [u].NormalizedUserName == __normalizedUserName_0
+select [u]).FirstOrDefault()"'
+
+00:01:17 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<User> _InterceptExceptions(
+    source: IAsyncEnumerable<User> _TrackEntities(
+        results: IAsyncEnumerable<User> _ToSequence(() => Task<User> FirstOrDefault(
+                source: IAsyncEnumerable<User> _ShapedQuery(
+                    queryContext: queryContext, 
+                    shaperCommandContext: SelectExpression: 
+                        SELECT TOP(1) [u].[Id], [u].[AccessFailedCount], [u].[ConcurrencyStamp], [u].[Email], [u].[EmailConfirmed], [u].[FullName], [u].[LockoutEnabled], [u].[LockoutEnd], [u].[NormalizedEmail], [u].[NormalizedUserName], [u].[PasswordHash], [u].[PhoneNumber], [u].[PhoneNumberConfirmed], [u].[SecurityStamp], [u].[TwoFactorEnabled], [u].[UserName]
+                        FROM [AspNetUsers] AS [u]
+                        WHERE [u].[NormalizedUserName] = @__normalizedUserName_0, 
+                    shaper: UnbufferedEntityShaper<User>), 
+                cancellationToken: queryContext.CancellationToken)), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: User }, 
+        entityAccessors: List<Func<User, object>> 
+        { 
+            Func<User, User>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:17 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:17 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:17 [Debug] () Executing DbCommand [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[Id], [u].[AccessFailedCount], [u].[ConcurrencyStamp], [u].[Email], [u].[EmailConfirmed], [u].[FullName], [u].[LockoutEnabled], [u].[LockoutEnd], [u].[NormalizedEmail], [u].[NormalizedUserName], [u].[PasswordHash], [u].[PhoneNumber], [u].[PhoneNumberConfirmed], [u].[SecurityStamp], [u].[TwoFactorEnabled], [u].[UserName]
+FROM [AspNetUsers] AS [u]
+WHERE [u].[NormalizedUserName] = @__normalizedUserName_0"
+
+00:01:17 [Information] () Executed DbCommand ("67"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[Id], [u].[AccessFailedCount], [u].[ConcurrencyStamp], [u].[Email], [u].[EmailConfirmed], [u].[FullName], [u].[LockoutEnabled], [u].[LockoutEnd], [u].[NormalizedEmail], [u].[NormalizedUserName], [u].[PasswordHash], [u].[PhoneNumber], [u].[PhoneNumberConfirmed], [u].[SecurityStamp], [u].[TwoFactorEnabled], [u].[UserName]
+FROM [AspNetUsers] AS [u]
+WHERE [u].[NormalizedUserName] = @__normalizedUserName_0"
+
+00:01:17 [Debug] () A data reader was disposed.
+
+00:01:17 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:17 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:17 [Debug] () Context '"User"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:01:17 [Debug] () Compiling query model: "
+"'"from IdentityUserClaim<string> uc in DbSet<IdentityUserClaim<string>>
+where bool [uc].UserId.Equals(__user_Id_0)
+select Claim [uc].ToClaim()"'
+
+00:01:17 [Debug] () Optimized query model: "
+"'"from IdentityUserClaim<string> uc in DbSet<IdentityUserClaim<string>>
+where bool [uc].UserId.Equals(__user_Id_0)
+select Claim [uc].ToClaim()"'
+
+00:01:17 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<Claim> _InterceptExceptions(
+    source: IAsyncEnumerable<Claim> _ShapedQuery(
+        queryContext: queryContext, 
+        shaperCommandContext: SelectExpression: 
+            SELECT [uc].[Id], [uc].[ClaimType], [uc].[ClaimValue], [uc].[UserId]
+            FROM [AspNetUserClaims] AS [uc]
+            WHERE [uc].[UserId] = @__user_Id_0, 
+        shaper: TypedProjectionShaper<UnbufferedOffsetEntityShaper<IdentityUserClaim<string>>, IdentityUserClaim<string>, Claim>), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:17 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:17 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:17 [Debug] () Executing DbCommand [Parameters=["@__user_Id_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [uc].[Id], [uc].[ClaimType], [uc].[ClaimValue], [uc].[UserId]
+FROM [AspNetUserClaims] AS [uc]
+WHERE [uc].[UserId] = @__user_Id_0"
+
+00:01:18 [Information] () Executed DbCommand ("4"ms) [Parameters=["@__user_Id_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [uc].[Id], [uc].[ClaimType], [uc].[ClaimValue], [uc].[UserId]
+FROM [AspNetUserClaims] AS [uc]
+WHERE [uc].[UserId] = @__user_Id_0"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Compiling query model: "
+"'"from IdentityUserRole<string> userRole in DbSet<IdentityUserRole<string>>
+join IdentityRole role in DbSet<IdentityRole>
+on [userRole].RoleId equals [role].Id
+where bool [userRole].UserId.Equals(__userId_0)
+select [role].Name"'
+
+00:01:18 [Debug] () Optimized query model: "
+"'"from IdentityUserRole<string> userRole in DbSet<IdentityUserRole<string>>
+join IdentityRole role in DbSet<IdentityRole>
+on [userRole].RoleId equals [role].Id
+where bool [userRole].UserId.Equals(__userId_0)
+select [role].Name"'
+
+00:01:18 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<string> _InterceptExceptions(
+    source: IAsyncEnumerable<string> _ShapedQuery(
+        queryContext: queryContext, 
+        shaperCommandContext: SelectExpression: 
+            SELECT [role].[Name]
+            FROM [AspNetUserRoles] AS [userRole]
+            INNER JOIN [AspNetRoles] AS [role] ON [userRole].[RoleId] = [role].[Id]
+            WHERE [userRole].[UserId] = @__userId_0, 
+        shaper: TypedProjectionShaper<TypedCompositeShaper<ValueBufferShaper, ValueBuffer, ValueBufferShaper, ValueBuffer, TransparentIdentifier<ValueBuffer, ValueBuffer>>, TransparentIdentifier<ValueBuffer, ValueBuffer>, string>), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=["@__userId_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [role].[Name]
+FROM [AspNetUserRoles] AS [userRole]
+INNER JOIN [AspNetRoles] AS [role] ON [userRole].[RoleId] = [role].[Id]
+WHERE [userRole].[UserId] = @__userId_0"
+
+00:01:18 [Information] () Executed DbCommand ("29"ms) [Parameters=["@__userId_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [role].[Name]
+FROM [AspNetUserRoles] AS [userRole]
+INNER JOIN [AspNetRoles] AS [role] ON [userRole].[RoleId] = [role].[Id]
+WHERE [userRole].[UserId] = @__userId_0"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Compiling query model: "
+"'"(from IdentityRole r in DbSet<IdentityRole>
+where [r].NormalizedName == __normalizedName_0
+select [r]).FirstOrDefault()"'
+
+00:01:18 [Debug] () Optimized query model: "
+"'"(from IdentityRole r in DbSet<IdentityRole>
+where [r].NormalizedName == __normalizedName_0
+select [r]).FirstOrDefault()"'
+
+00:01:18 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<IdentityRole> _InterceptExceptions(
+    source: IAsyncEnumerable<IdentityRole> _TrackEntities(
+        results: IAsyncEnumerable<IdentityRole> _ToSequence(() => Task<IdentityRole> FirstOrDefault(
+                source: IAsyncEnumerable<IdentityRole> _ShapedQuery(
+                    queryContext: queryContext, 
+                    shaperCommandContext: SelectExpression: 
+                        SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+                        FROM [AspNetRoles] AS [r]
+                        WHERE [r].[NormalizedName] = @__normalizedName_0, 
+                    shaper: UnbufferedEntityShaper<IdentityRole>), 
+                cancellationToken: queryContext.CancellationToken)), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: IdentityRole }, 
+        entityAccessors: List<Func<IdentityRole, object>> 
+        { 
+            Func<IdentityRole, IdentityRole>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [AspNetRoles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0"
+
+00:01:18 [Information] () Executed DbCommand ("5"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [AspNetRoles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Context '"IdentityRole"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:01:18 [Debug] () Compiling query model: "
+"'"from IdentityRoleClaim<string> rc in DbSet<IdentityRoleClaim<string>>
+where bool [rc].RoleId.Equals(__role_Id_0)
+select new Claim(
+    [rc].ClaimType, 
+    [rc].ClaimValue
+)"'
+
+00:01:18 [Debug] () Optimized query model: "
+"'"from IdentityRoleClaim<string> rc in DbSet<IdentityRoleClaim<string>>
+where bool [rc].RoleId.Equals(__role_Id_0)
+select new Claim(
+    [rc].ClaimType, 
+    [rc].ClaimValue
+)"'
+
+00:01:18 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<Claim> _InterceptExceptions(
+    source: IAsyncEnumerable<Claim> _ShapedQuery(
+        queryContext: queryContext, 
+        shaperCommandContext: SelectExpression: 
+            SELECT [rc].[ClaimType], [rc].[ClaimValue]
+            FROM [AspNetRoleClaims] AS [rc]
+            WHERE [rc].[RoleId] = @__role_Id_0, 
+        shaper: TypedProjectionShaper<ValueBufferShaper, ValueBuffer, Claim>), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=["@__role_Id_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [rc].[ClaimType], [rc].[ClaimValue]
+FROM [AspNetRoleClaims] AS [rc]
+WHERE [rc].[RoleId] = @__role_Id_0"
+
+00:01:18 [Information] () Executed DbCommand ("2"ms) [Parameters=["@__role_Id_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [rc].[ClaimType], [rc].[ClaimValue]
+FROM [AspNetRoleClaims] AS [rc]
+WHERE [rc].[RoleId] = @__role_Id_0"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Information] () AuthenticationScheme: "Identity.Application" signed in.
+
+00:01:18 [Debug] () Compiling query model: "
+"'"(from User x in DbSet<User>
+where [x].UserName == __username_0
+select [x]).SingleOrDefault()"'
+
+00:01:18 [Debug] () Optimized query model: "
+"'"(from User x in DbSet<User>
+where [x].UserName == __username_0
+select [x]).SingleOrDefault()"'
+
+00:01:18 [Debug] () "(QueryContext queryContext) => IEnumerable<User> _InterceptExceptions(
+    source: IEnumerable<User> _TrackEntities(
+        results: IEnumerable<User> _ToSequence(() => User SingleOrDefault(IEnumerable<User> _ShapedQuery(
+                    queryContext: queryContext, 
+                    shaperCommandContext: SelectExpression: 
+                        SELECT TOP(2) [x].[Id], [x].[AccessFailedCount], [x].[ConcurrencyStamp], [x].[Email], [x].[EmailConfirmed], [x].[FullName], [x].[LockoutEnabled], [x].[LockoutEnd], [x].[NormalizedEmail], [x].[NormalizedUserName], [x].[PasswordHash], [x].[PhoneNumber], [x].[PhoneNumberConfirmed], [x].[SecurityStamp], [x].[TwoFactorEnabled], [x].[UserName]
+                        FROM [AspNetUsers] AS [x]
+                        WHERE [x].[UserName] = @__username_0, 
+                    shaper: UnbufferedEntityShaper<User>))), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: User }, 
+        entityAccessors: List<Func<User, object>> 
+        { 
+            Func<User, User>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=["@__username_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[AccessFailedCount], [x].[ConcurrencyStamp], [x].[Email], [x].[EmailConfirmed], [x].[FullName], [x].[LockoutEnabled], [x].[LockoutEnd], [x].[NormalizedEmail], [x].[NormalizedUserName], [x].[PasswordHash], [x].[PhoneNumber], [x].[PhoneNumberConfirmed], [x].[SecurityStamp], [x].[TwoFactorEnabled], [x].[UserName]
+FROM [AspNetUsers] AS [x]
+WHERE [x].[UserName] = @__username_0"
+
+00:01:18 [Information] () Executed DbCommand ("4"ms) [Parameters=["@__username_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[AccessFailedCount], [x].[ConcurrencyStamp], [x].[Email], [x].[EmailConfirmed], [x].[FullName], [x].[LockoutEnabled], [x].[LockoutEnd], [x].[NormalizedEmail], [x].[NormalizedUserName], [x].[PasswordHash], [x].[PhoneNumber], [x].[PhoneNumberConfirmed], [x].[SecurityStamp], [x].[TwoFactorEnabled], [x].[UserName]
+FROM [AspNetUsers] AS [x]
+WHERE [x].[UserName] = @__username_0"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Compiling query model: "
+"'"(from IdentityRole r in DbSet<IdentityRole>
+where [r].NormalizedName == __normalizedRoleName_0
+select [r]).SingleOrDefault()"'
+
+00:01:18 [Debug] () Optimized query model: "
+"'"(from IdentityRole r in DbSet<IdentityRole>
+where [r].NormalizedName == __normalizedRoleName_0
+select [r]).SingleOrDefault()"'
+
+00:01:18 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<IdentityRole> _InterceptExceptions(
+    source: IAsyncEnumerable<IdentityRole> _TrackEntities(
+        results: IAsyncEnumerable<IdentityRole> _ToSequence(() => Task<IdentityRole> SingleOrDefault(
+                source: IAsyncEnumerable<IdentityRole> _ShapedQuery(
+                    queryContext: queryContext, 
+                    shaperCommandContext: SelectExpression: 
+                        SELECT TOP(2) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+                        FROM [AspNetRoles] AS [r]
+                        WHERE [r].[NormalizedName] = @__normalizedRoleName_0, 
+                    shaper: UnbufferedEntityShaper<IdentityRole>), 
+                cancellationToken: queryContext.CancellationToken)), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: IdentityRole }, 
+        entityAccessors: List<Func<IdentityRole, object>> 
+        { 
+            Func<IdentityRole, IdentityRole>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=["@__normalizedRoleName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [AspNetRoles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedRoleName_0"
+
+00:01:18 [Information] () Executed DbCommand ("4"ms) [Parameters=["@__normalizedRoleName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [AspNetRoles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedRoleName_0"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Compiling query model: "
+"'"(from IdentityUserRole<string> e in DbSet<IdentityUserRole<string>>
+where Property([e], \"UserId\") == __get_Item_0 && Property([e], \"RoleId\") == __get_Item_1
+select [e]).FirstOrDefault()"'
+
+00:01:18 [Debug] () Optimized query model: "
+"'"(from IdentityUserRole<string> e in DbSet<IdentityUserRole<string>>
+where Property([e], \"UserId\") == __get_Item_0 && Property([e], \"RoleId\") == __get_Item_1
+select [e]).FirstOrDefault()"'
+
+00:01:18 [Debug] () "(QueryContext queryContext) => IAsyncEnumerable<IdentityUserRole<string>> _InterceptExceptions(
+    source: IAsyncEnumerable<IdentityUserRole<string>> _TrackEntities(
+        results: IAsyncEnumerable<IdentityUserRole<string>> _ToSequence(() => Task<IdentityUserRole<string>> FirstOrDefault(
+                source: IAsyncEnumerable<IdentityUserRole<string>> _ShapedQuery(
+                    queryContext: queryContext, 
+                    shaperCommandContext: SelectExpression: 
+                        SELECT TOP(1) [e].[UserId], [e].[RoleId]
+                        FROM [AspNetUserRoles] AS [e]
+                        WHERE ([e].[UserId] = @__get_Item_0) AND ([e].[RoleId] = @__get_Item_1), 
+                    shaper: BufferedEntityShaper<IdentityUserRole`1>), 
+                cancellationToken: queryContext.CancellationToken)), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: IdentityUserRole`1 }, 
+        entityAccessors: List<Func<IdentityUserRole<string>, object>> 
+        { 
+            Func<IdentityUserRole<string>, IdentityUserRole<string>>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=["@__get_Item_0='?' (Size = 450), @__get_Item_1='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [e].[UserId], [e].[RoleId]
+FROM [AspNetUserRoles] AS [e]
+WHERE ([e].[UserId] = @__get_Item_0) AND ([e].[RoleId] = @__get_Item_1)"
+
+00:01:18 [Information] () Executed DbCommand ("4"ms) [Parameters=["@__get_Item_0='?' (Size = 450), @__get_Item_1='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [e].[UserId], [e].[RoleId]
+FROM [AspNetUserRoles] AS [e]
+WHERE ([e].[UserId] = @__get_Item_0) AND ([e].[RoleId] = @__get_Item_1)"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Context '"IdentityUserRole<string>"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:01:18 [Debug] () User with username vlatko77 successfully logged in!. Admin user
+
+00:01:18 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.RedirectToActionResult" in 486.9022ms.
+
+00:01:18 [Information] () Executing RedirectResult, redirecting to "/Product/Products".
+
+00:01:18 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.UserController.Login (Asp.NetCore_IdealDesign)" in 495.5321ms
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:01:18 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:01:18 [Information] () Request finished in 499.1367ms 302 
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/Product/Products  
+
+00:01:18 [Debug] () The request path "/Product/Products" does not match a supported file type
+
+00:01:18 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:01:18 [Debug] () The request path "" does not match the path filter
+
+00:01:18 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:01:18 [Information] () Route matched with "{action = \"Products\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Products()" on controller "Asp.NetCore_IdealDesign.Controllers.ProductController" ("Asp.NetCore_IdealDesign").
+
+00:01:18 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:01:18 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:18 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:01:18 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:01:18 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:18 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.ProductController.Products (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:01:18 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:01:18 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Id], [p].[Description], [p].[Name], [p].[ProductType]
+FROM [Product] AS [p]"
+
+00:01:18 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Id], [p].[Description], [p].[Name], [p].[ProductType]
+FROM [Product] AS [p]"
+
+00:01:18 [Debug] () A data reader was disposed.
+
+00:01:18 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:18 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.ProductController.Products (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 3.3745ms.
+
+00:01:18 [Debug] () View lookup cache hit for view '"Products"' in controller '"Product"'.
+
+00:01:18 [Information] () Executing ViewResult, running view "Products".
+
+00:01:18 [Debug] () The view path '"/Views/Product/Products.cshtml"' was found in 0.0948ms.
+
+00:01:18 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Product"'.
+
+00:01:18 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Product"'.
+
+00:01:18 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:01:18 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.3301ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:01:18 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Product"'.
+
+00:01:18 [Information] () Executed ViewResult - view "Products" executed in 4.4909ms.
+
+00:01:18 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.ProductController.Products (Asp.NetCore_IdealDesign)" in 8.1575ms
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:01:18 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:01:18 [Information] () Request finished in 18.066ms 200 text/html; charset=utf-8
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:01:18 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:01:18 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:01:18 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:01:18 [Information] () Request finished in 30.8785ms 200 text/css
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:01:18 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:01:18 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:01:18 [Information] () Request finished in 23.3669ms 200 application/javascript
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:01:18 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:01:18 [Information] () Request finished in 35.748ms 200 text/css
+
+00:01:18 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:01:18 [Information] () Request finished in 20.9963ms 200 application/javascript
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:01:18 [Information] () Request finished in 64.9287ms 200 text/css
+
+00:01:18 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:01:18 [Information] () Request finished in 56.3143ms 200 application/javascript
+
+00:01:18 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:01:18 [Information] () Request finished in 94.0195ms 200 application/javascript
+
+00:01:18 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:01:18 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:01:18 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:01:18 [Information] () Request finished in 9.3214ms 200 font/woff2
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/User/GetByUsername?username=vlatko77  
+
+00:01:27 [Debug] () The request path "/User/GetByUsername" does not match a supported file type
+
+00:01:27 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:01:27 [Debug] () The request path "" does not match the path filter
+
+00:01:27 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:01:27 [Debug] () Action '"Asp.NetCore_IdealDesign.Controllers.UserController.GetByUsername (Asp.NetCore_IdealDesign)"' with id '"63da3f70-fafb-4e71-beb8-18705d2b82b6"' did not match the constraint '"Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint"'
+
+00:01:27 [Information] () Route matched with "{action = \"GetByUsername\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetByUsername(System.String)" on controller "Asp.NetCore_IdealDesign.Controllers.UserController" ("Asp.NetCore_IdealDesign").
+
+00:01:27 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:01:27 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:27 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:01:27 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:01:27 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:01:27 [Debug] () Attempting to bind parameter '"username"' of type '"System.String"' ...
+
+00:01:27 [Debug] () Attempting to bind parameter '"username"' of type '"System.String"' using the name '"username"' in request data ...
+
+00:01:27 [Debug] () Done attempting to bind parameter '"username"' of type '"System.String"'.
+
+00:01:27 [Debug] () Done attempting to bind parameter '"username"' of type '"System.String"'.
+
+00:01:27 [Debug] () Attempting to validate the bound parameter '"username"' of type '"System.String"' ...
+
+00:01:27 [Debug] () Done attempting to validate the bound parameter '"username"' of type '"System.String"'.
+
+00:01:27 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.UserController.GetByUsername (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:01:27 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:01:27 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:27 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:27 [Debug] () Executing DbCommand [Parameters=["@__username_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[AccessFailedCount], [x].[ConcurrencyStamp], [x].[Email], [x].[EmailConfirmed], [x].[FullName], [x].[LockoutEnabled], [x].[LockoutEnd], [x].[NormalizedEmail], [x].[NormalizedUserName], [x].[PasswordHash], [x].[PhoneNumber], [x].[PhoneNumberConfirmed], [x].[SecurityStamp], [x].[TwoFactorEnabled], [x].[UserName]
+FROM [AspNetUsers] AS [x]
+WHERE [x].[UserName] = @__username_0"
+
+00:01:27 [Information] () Executed DbCommand ("2"ms) [Parameters=["@__username_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[AccessFailedCount], [x].[ConcurrencyStamp], [x].[Email], [x].[EmailConfirmed], [x].[FullName], [x].[LockoutEnabled], [x].[LockoutEnd], [x].[NormalizedEmail], [x].[NormalizedUserName], [x].[PasswordHash], [x].[PhoneNumber], [x].[PhoneNumberConfirmed], [x].[SecurityStamp], [x].[TwoFactorEnabled], [x].[UserName]
+FROM [AspNetUsers] AS [x]
+WHERE [x].[UserName] = @__username_0"
+
+00:01:27 [Debug] () A data reader was disposed.
+
+00:01:27 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:27 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:01:27 [Debug] () Context '"User"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:01:27 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.UserController.GetByUsername (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 6.1695ms.
+
+00:01:27 [Debug] () View lookup cache miss for view '"GetByUsername"' in controller '"User"'.
+
+00:01:27 [Debug] () Using precompiled view for '"/Views/User/GetByUsername.cshtml"'.
+
+00:01:27 [Information] () Executing ViewResult, running view "GetByUsername".
+
+00:01:27 [Debug] () The view path '"/Views/User/GetByUsername.cshtml"' was found in 7.8019ms.
+
+00:01:27 [Debug] () An antiforgery cookie token was reused.
+
+00:01:27 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"User"'.
+
+00:01:27 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"User"'.
+
+00:01:27 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:01:27 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.1958ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:01:27 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"User"'.
+
+00:01:27 [Information] () Executed ViewResult - view "GetByUsername" executed in 57.9638ms.
+
+00:01:27 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.UserController.GetByUsername (Asp.NetCore_IdealDesign)" in 64.7467ms
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:01:27 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:01:27 [Information] () Request finished in 71.1882ms 200 text/html; charset=utf-8
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:01:27 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:01:27 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:01:27 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:01:27 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 27.5133ms 200 application/javascript
+
+00:01:27 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 52.7105ms 200 text/css
+
+00:01:27 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 73.6364ms 200 application/javascript
+
+00:01:27 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 76.1348ms 200 text/css
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 83.7289ms 200 application/javascript
+
+00:01:27 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:01:27 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:01:27 [Information] () Request finished in 97.1616ms 200 text/css
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 97.6201ms 200 application/javascript
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-solid-900.woff2  
+
+00:01:27 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-solid-900.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 4.792ms 200 font/woff2
+
+00:01:27 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:01:27 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:01:27 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:01:27 [Information] () Request finished in 7.6915ms 200 font/woff2
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/Career/Applicants  
+
+00:02:09 [Debug] () The request path "/Career/Applicants" does not match a supported file type
+
+00:02:09 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:09 [Debug] () The request path "" does not match the path filter
+
+00:02:09 [Debug] () Request successfully matched the route with name 'null' and template '"Career/Applicants"'.
+
+00:02:09 [Information] () Route matched with "{action = \"Index\", controller = \"Career\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Asp.NetCore_IdealDesign.Controllers.CareerController" ("Asp.NetCore_IdealDesign").
+
+00:02:09 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:02:09 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:09 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:02:09 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:02:09 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:09 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:02:09 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:02:09 [Debug] () Compiling query model: "
+"'"from Career <generated>_0 in DbSet<Career>
+select [<generated>_0]"'
+
+00:02:09 [Debug] () Optimized query model: "
+"'"from Career <generated>_0 in DbSet<Career>
+select [<generated>_0]"'
+
+00:02:09 [Debug] () "(QueryContext queryContext) => IEnumerable<Career> _InterceptExceptions(
+    source: IEnumerable<Career> _TrackEntities(
+        results: IEnumerable<Career> _ShapedQuery(
+            queryContext: queryContext, 
+            shaperCommandContext: SelectExpression: 
+                SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+                FROM [Career] AS [c], 
+            shaper: UnbufferedEntityShaper<Career>), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: Career }, 
+        entityAccessors: List<Func<Career, object>> 
+        { 
+            Func<Career, Career>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:02:09 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:09 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:09 [Debug] () Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+FROM [Career] AS [c]"
+
+00:02:09 [Information] () Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+FROM [Career] AS [c]"
+
+00:02:09 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:09 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:09 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:09 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:09 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:09 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:09 [Debug] () A data reader was disposed.
+
+00:02:09 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:09 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:09 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 49.4882ms.
+
+00:02:09 [Debug] () View lookup cache miss for view '"Index"' in controller '"Career"'.
+
+00:02:09 [Debug] () Using precompiled view for '"/Views/Career/Index.cshtml"'.
+
+00:02:09 [Information] () Executing ViewResult, running view "Index".
+
+00:02:09 [Debug] () The view path '"/Views/Career/Index.cshtml"' was found in 12.6477ms.
+
+00:02:09 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Career"'.
+
+00:02:09 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Career"'.
+
+00:02:09 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:02:09 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.2933ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:02:09 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Career"'.
+
+00:02:09 [Information] () Executed ViewResult - view "Index" executed in 26.5109ms.
+
+00:02:09 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)" in 76.4618ms
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:02:09 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:02:09 [Information] () Request finished in 86.233ms 200 text/html; charset=utf-8
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:02:09 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 5.338ms 200 application/javascript
+
+00:02:09 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:02:09 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:09 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:02:09 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 30.7058ms 200 text/css
+
+00:02:09 [Information] () Request finished in 25.9222ms 200 application/javascript
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:02:09 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 34.9204ms 200 application/javascript
+
+00:02:09 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 47.175ms 200 text/css
+
+00:02:09 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 33.7571ms 200 text/css
+
+00:02:09 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 48.9202ms 200 application/javascript
+
+00:02:09 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:02:09 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:02:09 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:02:09 [Information] () Request finished in 2.1173ms 200 font/woff2
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/Career/Detail/10  
+
+00:02:16 [Debug] () The request path "/Career/Detail/10" does not match a supported file type
+
+00:02:16 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:16 [Debug] () The request path "" does not match the path filter
+
+00:02:16 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:02:16 [Information] () Route matched with "{action = \"Detail\", controller = \"Career\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Detail(Int32)" on controller "Asp.NetCore_IdealDesign.Controllers.CareerController" ("Asp.NetCore_IdealDesign").
+
+00:02:16 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:02:16 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:16 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:02:16 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:02:16 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:16 [Debug] () Attempting to bind parameter '"id"' of type '"System.Int32"' ...
+
+00:02:16 [Debug] () Attempting to bind parameter '"id"' of type '"System.Int32"' using the name '"id"' in request data ...
+
+00:02:16 [Debug] () Done attempting to bind parameter '"id"' of type '"System.Int32"'.
+
+00:02:16 [Debug] () Done attempting to bind parameter '"id"' of type '"System.Int32"'.
+
+00:02:16 [Debug] () Attempting to validate the bound parameter '"id"' of type '"System.Int32"' ...
+
+00:02:16 [Debug] () Done attempting to validate the bound parameter '"id"' of type '"System.Int32"'.
+
+00:02:16 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Detail (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:02:16 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:02:16 [Debug] () Compiling query model: "
+"'"(from Career x in DbSet<Career>
+where [x].Id == __id_0
+select [x]).SingleOrDefault()"'
+
+00:02:16 [Debug] () Optimized query model: "
+"'"(from Career x in DbSet<Career>
+where [x].Id == __id_0
+select [x]).SingleOrDefault()"'
+
+00:02:16 [Debug] () "(QueryContext queryContext) => IEnumerable<Career> _InterceptExceptions(
+    source: IEnumerable<Career> _TrackEntities(
+        results: IEnumerable<Career> _ToSequence(() => Career SingleOrDefault(IEnumerable<Career> _ShapedQuery(
+                    queryContext: queryContext, 
+                    shaperCommandContext: SelectExpression: 
+                        SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+                        FROM [Career] AS [x]
+                        WHERE [x].[Id] = @__id_0, 
+                    shaper: UnbufferedEntityShaper<Career>))), 
+        queryContext: queryContext, 
+        entityTrackingInfos: { itemType: Career }, 
+        entityAccessors: List<Func<Career, object>> 
+        { 
+            Func<Career, Career>, 
+        }
+    ), 
+    contextType: IdealDesign_DataAccess.IdDesignDbContext, 
+    logger: DiagnosticsLogger<Query>, 
+    queryContext: queryContext)"
+
+00:02:16 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Executing DbCommand [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+FROM [Career] AS [x]
+WHERE [x].[Id] = @__id_0"
+
+00:02:16 [Information] () Executed DbCommand ("7"ms) [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+FROM [Career] AS [x]
+WHERE [x].[Id] = @__id_0"
+
+00:02:16 [Debug] () A data reader was disposed.
+
+00:02:16 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:16 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Executing DbCommand [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+FROM [Career] AS [x]
+WHERE [x].[Id] = @__id_0"
+
+00:02:16 [Information] () Executed DbCommand ("1"ms) [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+FROM [Career] AS [x]
+WHERE [x].[Id] = @__id_0"
+
+00:02:16 [Debug] () A data reader was disposed.
+
+00:02:16 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:16 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Detail (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 24.7994ms.
+
+00:02:16 [Debug] () View lookup cache miss for view '"Detail"' in controller '"Career"'.
+
+00:02:16 [Debug] () Using precompiled view for '"/Views/Career/Detail.cshtml"'.
+
+00:02:16 [Information] () Executing ViewResult, running view "Detail".
+
+00:02:16 [Debug] () The view path '"/Views/Career/Detail.cshtml"' was found in 13.9894ms.
+
+00:02:16 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Career"'.
+
+00:02:16 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Career"'.
+
+00:02:16 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:02:16 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.1275ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:02:16 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Career"'.
+
+00:02:16 [Information] () Executed ViewResult - view "Detail" executed in 26.0427ms.
+
+00:02:16 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.CareerController.Detail (Asp.NetCore_IdealDesign)" in 51.6682ms
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:02:16 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:02:16 [Information] () Request finished in 58.5282ms 200 text/html; charset=utf-8
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:02:16 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:02:16 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:02:16 [Information] () Request finished in 8.2206ms 200 text/css
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:02:16 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:16 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:02:16 [Information] () Request finished in 7.0505ms 200 application/javascript
+
+00:02:16 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:02:16 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:02:16 [Information] () Request finished in 11.7341ms 200 application/javascript
+
+00:02:16 [Information] () Request finished in 11.5186ms 200 application/javascript
+
+00:02:16 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:02:16 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:02:16 [Information] () Request finished in 20.9941ms 200 text/css
+
+00:02:16 [Information] () Request finished in 19.61ms 200 text/css
+
+00:02:16 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:02:16 [Information] () Request finished in 16.9587ms 200 application/javascript
+
+00:02:16 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:02:16 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:02:16 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:02:16 [Information] () Request finished in 2.9435ms 200 font/woff2
+
+00:02:36 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/data/resumes/cover_letter.docx  
+
+00:02:36 [Information] () Sending file. Request path: '"/data/resumes/cover_letter.docx"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\data\resumes\cover_letter.docx"'
+
+00:02:36 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:02:36 [Information] () Request finished in 1.9091ms 200 application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/Career/Applicants  
+
+00:02:43 [Debug] () The request path "/Career/Applicants" does not match a supported file type
+
+00:02:43 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:43 [Debug] () The request path "" does not match the path filter
+
+00:02:43 [Debug] () Request successfully matched the route with name 'null' and template '"Career/Applicants"'.
+
+00:02:43 [Information] () Route matched with "{action = \"Index\", controller = \"Career\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Asp.NetCore_IdealDesign.Controllers.CareerController" ("Asp.NetCore_IdealDesign").
+
+00:02:43 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:02:43 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:43 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:02:43 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:02:43 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:43 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:02:43 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:02:43 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:43 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:43 [Debug] () Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+FROM [Career] AS [c]"
+
+00:02:43 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+FROM [Career] AS [c]"
+
+00:02:43 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:43 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:43 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:43 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:43 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:43 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:43 [Debug] () A data reader was disposed.
+
+00:02:43 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:43 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:43 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 4.2501ms.
+
+00:02:43 [Debug] () View lookup cache hit for view '"Index"' in controller '"Career"'.
+
+00:02:43 [Information] () Executing ViewResult, running view "Index".
+
+00:02:43 [Debug] () The view path '"/Views/Career/Index.cshtml"' was found in 0.0815ms.
+
+00:02:43 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Career"'.
+
+00:02:43 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Career"'.
+
+00:02:43 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:02:43 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.1652ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:02:43 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Career"'.
+
+00:02:43 [Information] () Executed ViewResult - view "Index" executed in 1.6277ms.
+
+00:02:43 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)" in 6.1331ms
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:02:43 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:02:43 [Information] () Request finished in 8.3168ms 200 text/html; charset=utf-8
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:02:43 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:02:43 [Information] () Request finished in 18.8336ms 200 application/javascript
+
+00:02:43 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:02:43 [Information] () Request finished in 27.8075ms 200 text/css
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:02:43 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:02:43 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:43 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:02:43 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:02:43 [Information] () Request finished in 29.6679ms 200 application/javascript
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:02:43 [Information] () Request finished in 49.0292ms 200 application/javascript
+
+00:02:43 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:02:43 [Information] () Request finished in 66.7601ms 200 text/css
+
+00:02:43 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:02:43 [Information] () Request finished in 94.3508ms 200 text/css
+
+00:02:43 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:02:43 [Information] () Request finished in 97.3103ms 200 application/javascript
+
+00:02:43 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:02:43 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:02:43 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:02:43 [Information] () Request finished in 5.5178ms 200 font/woff2
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/Career/DeleteById/9?  
+
+00:02:48 [Debug] () The request path "/Career/DeleteById/9" does not match a supported file type
+
+00:02:48 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:48 [Debug] () The request path "" does not match the path filter
+
+00:02:48 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:02:48 [Information] () Route matched with "{action = \"DeleteById\", controller = \"Career\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DeleteById(Int32)" on controller "Asp.NetCore_IdealDesign.Controllers.CareerController" ("Asp.NetCore_IdealDesign").
+
+00:02:48 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:02:48 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:48 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:02:48 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:02:48 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:02:48 [Debug] () Attempting to bind parameter '"id"' of type '"System.Int32"' ...
+
+00:02:48 [Debug] () Attempting to bind parameter '"id"' of type '"System.Int32"' using the name '"id"' in request data ...
+
+00:02:48 [Debug] () Done attempting to bind parameter '"id"' of type '"System.Int32"'.
+
+00:02:48 [Debug] () Done attempting to bind parameter '"id"' of type '"System.Int32"'.
+
+00:02:48 [Debug] () Attempting to validate the bound parameter '"id"' of type '"System.Int32"' ...
+
+00:02:48 [Debug] () Done attempting to validate the bound parameter '"id"' of type '"System.Int32"'.
+
+00:02:48 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.CareerController.DeleteById (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:02:48 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:02:48 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:48 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:48 [Debug] () Executing DbCommand [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+FROM [Career] AS [x]
+WHERE [x].[Id] = @__id_0"
+
+00:02:48 [Information] () Executed DbCommand ("3"ms) [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [x].[Id], [x].[Description], [x].[Firstname], [x].[Lastname], [x].[Phone], [x].[Resume]
+FROM [Career] AS [x]
+WHERE [x].[Id] = @__id_0"
+
+00:02:48 [Debug] () A data reader was disposed.
+
+00:02:48 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:48 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:02:48 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:02:48 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.CareerController.DeleteById (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 4.4458ms.
+
+00:02:48 [Debug] () View lookup cache miss for view '"DeleteById"' in controller '"Career"'.
+
+00:02:48 [Debug] () Using precompiled view for '"/Views/Career/DeleteById.cshtml"'.
+
+00:02:48 [Information] () Executing ViewResult, running view "DeleteById".
+
+00:02:48 [Debug] () The view path '"/Views/Career/DeleteById.cshtml"' was found in 18.6455ms.
+
+00:02:48 [Debug] () View lookup cache miss for view '"DisplayTemplates/String"' in controller '"Career"'.
+
+00:02:48 [Debug] () View lookup cache hit for view '"DisplayTemplates/String"' in controller '"Career"'.
+
+00:02:48 [Debug] () View lookup cache hit for view '"DisplayTemplates/String"' in controller '"Career"'.
+
+00:02:48 [Debug] () View lookup cache hit for view '"DisplayTemplates/String"' in controller '"Career"'.
+
+00:02:48 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Career"'.
+
+00:02:48 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Career"'.
+
+00:02:48 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:02:48 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.2027ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:02:48 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Career"'.
+
+00:02:48 [Information] () Executed ViewResult - view "DeleteById" executed in 41.1777ms.
+
+00:02:48 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.CareerController.DeleteById (Asp.NetCore_IdealDesign)" in 48.9522ms
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:02:48 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:02:48 [Information] () Request finished in 53.2292ms 200 text/html; charset=utf-8
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:02:48 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:02:48 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:02:48 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:02:48 [Information] () Request finished in 2.2524ms 200 application/javascript
+
+00:02:48 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:02:48 [Information] () Request finished in 30.2964ms 200 text/css
+
+00:02:48 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:02:48 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:02:48 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:02:48 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:02:48 [Information] () Request finished in 31.3305ms 200 application/javascript
+
+00:02:48 [Information] () Request finished in 35.1429ms 200 text/css
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:02:48 [Information] () Request finished in 34.5004ms 200 text/css
+
+00:02:48 [Information] () Request finished in 30.8962ms 200 application/javascript
+
+00:02:48 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:02:48 [Information] () Request finished in 50.7061ms 200 application/javascript
+
+00:02:48 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:02:48 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:02:48 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:02:48 [Information] () Request finished in 7.046ms 200 font/woff2
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/Career/Applicants  
+
+00:03:19 [Debug] () The request path "/Career/Applicants" does not match a supported file type
+
+00:03:19 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:03:19 [Debug] () The request path "" does not match the path filter
+
+00:03:19 [Debug] () Request successfully matched the route with name 'null' and template '"Career/Applicants"'.
+
+00:03:19 [Information] () Route matched with "{action = \"Index\", controller = \"Career\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Asp.NetCore_IdealDesign.Controllers.CareerController" ("Asp.NetCore_IdealDesign").
+
+00:03:19 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:03:19 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:03:19 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:03:19 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:03:19 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:03:19 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:03:19 [Information] () Entity Framework Core "2.1.14-servicing-32113" initialized '"IdDesignDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+00:03:19 [Debug] () Opening connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:03:19 [Debug] () Opened connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:03:19 [Debug] () Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+FROM [Career] AS [c]"
+
+00:03:19 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Description], [c].[Firstname], [c].[Lastname], [c].[Phone], [c].[Resume]
+FROM [Career] AS [c]"
+
+00:03:19 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:03:19 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:03:19 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:03:19 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:03:19 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:03:19 [Debug] () Context '"Career"' started tracking '"IdDesignDbContext"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+
+00:03:19 [Debug] () A data reader was disposed.
+
+00:03:19 [Debug] () Closing connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:03:19 [Debug] () Closed connection to database '"IdealDesignDb"' on server '"DESKTOP-1IQ2NGF\SQLEXPRESS"'.
+
+00:03:19 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 5.0653ms.
+
+00:03:19 [Debug] () View lookup cache hit for view '"Index"' in controller '"Career"'.
+
+00:03:19 [Information] () Executing ViewResult, running view "Index".
+
+00:03:19 [Debug] () The view path '"/Views/Career/Index.cshtml"' was found in 0.1189ms.
+
+00:03:19 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Career"'.
+
+00:03:19 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Career"'.
+
+00:03:19 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:03:19 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.3149ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:03:19 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Career"'.
+
+00:03:19 [Information] () Executed ViewResult - view "Index" executed in 3.2639ms.
+
+00:03:19 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.CareerController.Index (Asp.NetCore_IdealDesign)" in 8.6132ms
+
+00:03:19 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:03:19 [Debug] () '"IdDesignDbContext"' disposed.
+
+00:03:19 [Information] () Request finished in 10.815ms 200 text/html; charset=utf-8
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:03:19 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:03:19 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:03:19 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:03:19 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:03:19 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:03:19 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:03:19 [Information] () Request finished in 5.9882ms 200 application/javascript
+
+00:03:19 [Information] () Request finished in 5.934ms 200 application/javascript
+
+00:03:19 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:03:19 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:03:19 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:03:19 [Information] () Request finished in 16.2484ms 200 application/javascript
+
+00:03:19 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:03:19 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:03:19 [Information] () Request finished in 26.7165ms 200 text/css
+
+00:03:20 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:03:20 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:03:20 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:03:20 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:03:20 [Information] () Request finished in 22.6786ms 200 text/css
+
+00:03:20 [Information] () Request finished in 36.4494ms 200 text/css
+
+00:03:20 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:03:20 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:03:20 [Information] () Request finished in 41.2847ms 200 application/javascript
+
+00:03:20 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:03:20 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:03:20 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:03:20 [Information] () Request finished in 4.984ms 200 font/woff2
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/User/Logout  
+
+00:03:33 [Debug] () The request path "/User/Logout" does not match a supported file type
+
+00:03:33 [Debug] () AuthenticationScheme: "Identity.Application" was successfully authenticated.
+
+00:03:33 [Debug] () The request path "" does not match the path filter
+
+00:03:33 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:03:33 [Information] () Route matched with "{action = \"Logout\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Logout()" on controller "Asp.NetCore_IdealDesign.Controllers.UserController" ("Asp.NetCore_IdealDesign").
+
+00:03:33 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:03:33 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:03:33 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:03:33 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:03:33 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:03:33 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.UserController.Logout (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:03:33 [Information] () AuthenticationScheme: "Identity.Application" signed out.
+
+00:03:33 [Information] () AuthenticationScheme: "Identity.External" signed out.
+
+00:03:33 [Information] () AuthenticationScheme: "Identity.TwoFactorUserId" signed out.
+
+00:03:33 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.UserController.Logout (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.RedirectToActionResult" in 4.2ms.
+
+00:03:33 [Information] () Executing RedirectResult, redirecting to "/".
+
+00:03:33 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.UserController.Logout (Asp.NetCore_IdealDesign)" in 4.5169ms
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 6.68ms 302 
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/  
+
+00:03:33 [Debug] () The request path "/" does not match a supported file type
+
+00:03:33 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:03:33 [Debug] () The request path "" does not match the path filter
+
+00:03:33 [Debug] () Request successfully matched the route with name '"default"' and template '"{controller=Home}/{action=Index}/{id?}"'.
+
+00:03:33 [Information] () Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Asp.NetCore_IdealDesign.Controllers.HomeController" ("Asp.NetCore_IdealDesign").
+
+00:03:33 [Debug] () Execution plan of "authorization" filters (in the following order): ["None"]
+
+00:03:33 [Debug] () Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:03:33 [Debug] () Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Internal.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter"]
+
+00:03:33 [Debug] () Execution plan of "exception" filters (in the following order): ["None"]
+
+00:03:33 [Debug] () Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.SaveTempDataFilter"]
+
+00:03:33 [Information] () Executing action method "Asp.NetCore_IdealDesign.Controllers.HomeController.Index (Asp.NetCore_IdealDesign)" - Validation state: Valid
+
+00:03:33 [Information] () Executed action method "Asp.NetCore_IdealDesign.Controllers.HomeController.Index (Asp.NetCore_IdealDesign)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0092ms.
+
+00:03:33 [Debug] () View lookup cache hit for view '"Index"' in controller '"Home"'.
+
+00:03:33 [Information] () Executing ViewResult, running view "Index".
+
+00:03:33 [Debug] () The view path '"/Views/Home/Index.cshtml"' was found in 0.089ms.
+
+00:03:33 [Debug] () View lookup cache hit for view '"_Layout"' in controller '"Home"'.
+
+00:03:33 [Debug] () View lookup cache hit for view '"_CookieConsentPartial"' in controller '"Home"'.
+
+00:03:33 [Debug] () Executing view component "NToastNotify.NToastNotifyViewComponent" with arguments ([]).
+
+00:03:33 [Debug] () Executed view component "NToastNotify.NToastNotifyViewComponent" in 0.1795ms and returned "Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult"
+
+00:03:33 [Debug] () View lookup cache hit for view '"Components/NToastNotify/Default"' in controller '"Home"'.
+
+00:03:33 [Information] () Executed ViewResult - view "Index" executed in 1.3747ms.
+
+00:03:33 [Information] () Executed action "Asp.NetCore_IdealDesign.Controllers.HomeController.Index (Asp.NetCore_IdealDesign)" in 1.655ms
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 2.5678ms 200 text/html; charset=utf-8
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/css/site.css  
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/css/bootstrap.css  
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/css/all.css  
+
+00:03:33 [Information] () Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\css\site.css"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 8.5999ms 200 text/css
+
+00:03:33 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 11.7343ms 200 text/css
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/jquery/dist/jquery.js  
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/bootstrap/dist/js/bootstrap.js  
+
+00:03:33 [Information] () Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\css\all.css"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 25.7108ms 200 text/css
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/images/Ideal_pic/dressers/dressers_2.jpg  
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/images/Ideal_pic/dressers/dressers_1.jpg  
+
+00:03:33 [Information] () Sending file. Request path: '"/images/Ideal_pic/dressers/dressers_1.jpg"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\images\Ideal_pic\dressers\dressers_1.jpg"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV2I"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 3.4656ms 200 image/jpeg
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/images/Ideal_pic/dressers/dressers_4.jpg  
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/images/Ideal_pic/dressers/dressers_3.jpg  
+
+00:03:33 [Information] () Sending file. Request path: '"/images/Ideal_pic/dressers/dressers_3.jpg"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\images\Ideal_pic\dressers\dressers_3.jpg"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV12"" completed keep alive response.
+
+00:03:33 [Information] () Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+
+00:03:33 [Information] () Request finished in 4.0024ms 200 image/jpeg
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV09"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 17.4687ms 200 application/javascript
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/NToastNotify/js/dist/toastr.js?v=201806071014  
+
+00:03:33 [Debug] () The request path "/NToastNotify/js/dist/toastr.js" does not match an existing file
+
+00:03:33 [Debug] () AuthenticationScheme: "Identity.Application" was not authenticated.
+
+00:03:33 [Information] () Sending file. Request path: '"/js/dist/toastr.js"'. Physical path: '"N/A"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV0E"" completed keep alive response.
+
+00:03:33 [Information] () Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\js\site.js"'
+
+00:03:33 [Information] () Request finished in 1.9886ms 200 application/javascript
+
+00:03:33 [Information] () Sending file. Request path: '"/images/Ideal_pic/dressers/dressers_4.jpg"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\images\Ideal_pic\dressers\dressers_4.jpg"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV1C"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 7.2755ms 200 image/jpeg
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV2N"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 22.3512ms 200 application/javascript
+
+00:03:33 [Information] () Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\jquery\dist\jquery.js"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV0B"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 40.9563ms 200 application/javascript
+
+00:03:33 [Information] () Sending file. Request path: '"/images/Ideal_pic/dressers/dressers_2.jpg"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\images\Ideal_pic\dressers\dressers_2.jpg"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV0N"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 44.8359ms 200 image/jpeg
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-solid-900.woff2  
+
+00:03:33 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-solid-900.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV15"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 4.9161ms 200 font/woff2
+
+00:03:33 [Information] () Request starting HTTP/1.1 GET http://localhost:44313/lib/font-awesome/webfonts/fa-brands-400.woff2  
+
+00:03:33 [Information] () Sending file. Request path: '"/lib/font-awesome/webfonts/fa-brands-400.woff2"'. Physical path: '"C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2"'
+
+00:03:33 [Debug] () Connection id ""0HM6PS20DQV17"" completed keep alive response.
+
+00:03:33 [Information] () Request finished in 9.649ms 200 font/woff2

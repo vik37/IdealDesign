@@ -52,3 +52,15 @@ C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_Id
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Razor\Views\Career\Detail.cshtml.g.cs
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Razor\Views\Career\DeleteById.cshtml.g.cs
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ErrorView.cshtml.g.cs
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\bin\Debug\netcoreapp2.1\mk\Asp.NetCore_IdealDesign.resources.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Controllers.HomeController.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\mk\Asp.NetCore_IdealDesign.resources.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Home.Contact.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Razor\Views\Shared\SelectLanguagePartialView.cshtml.g.cs
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\bin\Debug\netcoreapp2.1\sq\Asp.NetCore_IdealDesign.resources.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Home.Contact.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\sq\Asp.NetCore_IdealDesign.resources.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Controllers.HomeController.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Shared._Layout.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Shared._Layout.sq.resources

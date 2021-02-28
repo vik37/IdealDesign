@@ -37,6 +37,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.14",
           "Microsoft.EntityFrameworkCore.Tools": "2.1.14",
           "Microsoft.Extensions.Logging.Debug": "2.1.1",
+          "Microsoft.Extensions.Options": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.BrowserLink": "2.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10",
@@ -48,6 +49,14 @@
         },
         "runtime": {
           "Asp.NetCore_IdealDesign.dll": {}
+        },
+        "resources": {
+          "mk/Asp.NetCore_IdealDesign.resources.dll": {
+            "locale": "mk"
+          },
+          "sq/Asp.NetCore_IdealDesign.resources.dll": {
+            "locale": "sq"
+          }
         },
         "compile": {
           "Asp.NetCore_IdealDesign.dll": {}

@@ -43,8 +43,13 @@ using IdealDesign_WebModels.EnumsVM;
 
 #line default
 #line hidden
+#line 7 "C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Mvc.Localization;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1b31d737e3409afdcb526578ff61328d5b35fa9a", @"/Views/Career/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f0d11fed54bc6cfc6dc5a0f5bfe5fdbec42bb42a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ddca1ec8123faa4e059224c7701441ef446b3e2d", @"/Views/_ViewImports.cshtml")]
     public class Views_Career_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<CareerVM>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Detail", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -172,7 +177,7 @@ using IdealDesign_WebModels.EnumsVM;
             WriteLiteral("</td>\r\n                    \r\n                    <td class=\"cell-links\">\r\n                        <div class=\"col-md-1\"></div>\r\n                        ");
             EndContext();
             BeginContext(1235, 126, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9a50e96ac64f4547ae5da335e10087f9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b1fb632016d04847930c6bc13e224403", async() => {
                 BeginContext(1350, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -213,7 +218,7 @@ using IdealDesign_WebModels.EnumsVM;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(1486, 255, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "12715d3ff3e041388d3eea0482e31e13", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "85c0a5d67ab24bcaac64f7ff0623e5a2", async() => {
                 BeginContext(1596, 138, true);
                 WriteLiteral("\r\n                        <button type=\"submit\" value=\"delete\" class=\"button button-remove\">Remove Alpicant</button>\r\n                    ");
                 EndContext();
