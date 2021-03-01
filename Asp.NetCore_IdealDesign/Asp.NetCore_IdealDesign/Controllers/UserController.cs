@@ -4,7 +4,9 @@ using IdealDesign_WebModels.EnumsVM;
 using IdealDesign_WebModels.VewModels;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Localization;
 using NToastNotify;
 using Serilog;
 using System;
@@ -20,11 +22,14 @@ namespace Asp.NetCore_IdealDesign.Controllers
         private readonly IUserService _userService;
         private readonly IHostingEnvironment _env;
         private readonly IToastNotification _toastNotification;
-        public UserController(IUserService userService, IHostingEnvironment env, IToastNotification toastNotification)
+        private readonly IStringLocalizer<HomeController> _localizer;
+        public UserController(IUserService userService, IHostingEnvironment env, 
+            IToastNotification toastNotification, IStringLocalizer<HomeController> localizer)
         {
             _userService = userService;
             _env = env;
             _toastNotification = toastNotification;
+            _localizer = localizer;
         }
         
         public IActionResult GetByUsername(string username)
@@ -45,7 +50,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
                     {
                         if (!ServiceHelper.IsItJpg(photo))
                         {
-                            ViewBag.ImageError = "File must be jpg";
+                            ViewBag.ImageError = _localizer["File must be jpg"];
                             return View(model);
                         }
                         imgLength += 1;
@@ -55,7 +60,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
                         photo.CopyTo(new FileStream(filePath, FileMode.Create));
                        
                     }
-                    _toastNotification.AddSuccessToastMessage($"images has been successfully updated");
+                    _toastNotification.AddSuccessToastMessage(_localizer[$"images has been successfully updated"]);
                     Log.Debug($"images has been successfully updated");
                 }
                 else
@@ -113,6 +118,17 @@ namespace Asp.NetCore_IdealDesign.Controllers
         {
             _userService.Logout();
             return RedirectToAction("index", "home");
+        }
+
+        [HttpPost]
+        public IActionResult SetLanguage(string culture, string returnUrl)
+        {
+            Response.Cookies.Append(
+                CookieRequestCultureProvider.DefaultCookieName,
+                CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)),
+                new CookieOptions { Expires = DateTimeOffset.UtcNow.AddDays(1) }
+            );
+            return LocalRedirect(returnUrl);
         }
     }
 }

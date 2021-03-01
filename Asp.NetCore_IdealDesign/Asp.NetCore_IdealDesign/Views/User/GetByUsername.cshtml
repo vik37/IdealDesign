@@ -11,7 +11,7 @@
     @*<div class="col-md-10"></div>*@
     <div class="row"></div>
     <div class="col-md-2">
-        <form enctype="multipart/form-data" asp-action="GetByUsername" asp-controller="User" method="post">
+        <form enctype="multipart/form-data" class="form-typeOfProducts" asp-action="GetByUsername" asp-controller="User" method="post">
             <div class="row">
                 <input type="hidden" asp-for="Id" />
                 <input type="hidden" asp-for="Username" />
@@ -19,7 +19,7 @@
                 <div class="col-md-10"></div>
                 <div class="col-md-2"></div>
                 <div class="input-group">
-                    @Html.DropDownListFor(product => product.ProductType, Html.GetEnumSelectList(Model.ProductType.GetType()))
+                    @Html.DropDownListFor(product => product.ProductType, Html.GetEnumSelectList(Model.ProductType.GetType()), new { @class = "typeOfProducts" })
 
                 </div>
             </div>
@@ -98,15 +98,15 @@
         border-left: 10px solid black;
         border-right: 10px solid black;
     }
-    form{
-        border:6px groove;
-        width:500px;
-        margin:8px;
-        padding:5px 50px;
-        background-color:black;
-        border-radius:30px;
+    .form-typeOfProducts {
+        border: 6px groove;
+        width: 500px;
+        margin: 8px;
+        padding: 5px 50px;
+        background-color: black;
+        border-radius: 30px;
     }
-    select {
+    .typeOfProducts {
         width: 250px;
         height: 34px;
         border: 5px ridge #e6e4aa;
@@ -117,16 +117,15 @@
         outline: none;
         margin: 0 90px;
     }
-        select > * {
-            border-radius: 10px;
-            background-color: black;
-            color: white;
-            
-        }
-        select:hover {
-            color: #3ec20e;
-            background-color: rgba(0, 0, 0, 0.67);
-        }
+    .typeOfProducts > * {
+        border-radius: 10px;
+        background-color: black;
+        color: white;
+    }
+    .typeOfProducts:hover {
+        color: #3ec20e;
+        background-color: rgba(0, 0, 0, 0.67);
+    }
     label {
         font-size: 28px;
         color: white;

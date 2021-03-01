@@ -177,7 +177,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("</td>\r\n                    \r\n                    <td class=\"cell-links\">\r\n                        <div class=\"col-md-1\"></div>\r\n                        ");
             EndContext();
             BeginContext(1235, 126, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b1fb632016d04847930c6bc13e224403", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "351ac958c1304f74bdbbb06664b98351", async() => {
                 BeginContext(1350, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -218,7 +218,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(1486, 255, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "85c0a5d67ab24bcaac64f7ff0623e5a2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "002fbfea616c424b9acef92aee195766", async() => {
                 BeginContext(1596, 138, true);
                 WriteLiteral("\r\n                        <button type=\"submit\" value=\"delete\" class=\"button button-remove\">Remove Alpicant</button>\r\n                    ");
                 EndContext();

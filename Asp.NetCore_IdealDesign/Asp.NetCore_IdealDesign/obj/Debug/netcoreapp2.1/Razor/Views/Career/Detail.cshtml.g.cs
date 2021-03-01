@@ -134,7 +134,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("</p>\r\n            </div>\r\n\r\n            \r\n            <div class=\"col-md-3\"></div>\r\n            \r\n            <div class=\"col-md-1 container-resume\">\r\n                <h3>RESUME:</h3>\r\n                ");
             EndContext();
             BeginContext(1086, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "505c9b8f157b44bcbdc7d9663eb55ff1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da238cb26af54deabd72ba66a8d21296", async() => {
                 BeginContext(1150, 12, false);
 #line 34 "C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\Views\Career\Detail.cshtml"
                                                                           Write(ViewBag.file);

@@ -110,12 +110,12 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("        <div class=\"col-md-1 img-container\">\r\n            ");
             EndContext();
             BeginContext(575, 288, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8917ede9588d4c1cbcc75535cc2d5f0e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3178a51a11de45d8a2cfb45984a5fe75", async() => {
                 BeginContext(658, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
                 BeginContext(676, 169, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "51b86aed57dc4c52a209549c7fb21f32", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cb63f08168c2489fbdb561a29186db44", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

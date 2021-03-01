@@ -97,7 +97,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("</h2>\r\n        </div>\r\n    </div>\r\n    <br />\r\n    <div class=\"col-md-4 \">\r\n        ");
             EndContext();
             BeginContext(311, 243, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0a6d574a9ea4114b0887bd04e39913e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5b5da02aa3b4c7a815829e94c9001c1", async() => {
                 BeginContext(330, 84, true);
                 WriteLiteral("\r\n            <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"Kitchens\"");
                 EndContext();
@@ -133,7 +133,7 @@ WriteAttributeValue("", 459, Url.Action("ProductType","Product",new { type = Pro
             WriteLiteral("\r\n    </div>\r\n    <div class=\"col-md-4 \">\r\n        ");
             EndContext();
             BeginContext(605, 245, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ab20d532ffdd420e998270d044acd039", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a4d0eb9fb60477691fe7e6a785f2f59", async() => {
                 BeginContext(624, 85, true);
                 WriteLiteral("\r\n            <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"Wardrobes\"");
                 EndContext();
@@ -169,7 +169,7 @@ WriteAttributeValue("", 754, Url.Action("ProductType","Product",new { type = Pro
             WriteLiteral("\r\n    </div>\r\n    <div class=\"col-md-4 \">\r\n        ");
             EndContext();
             BeginContext(901, 262, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19520ea36516414690738cb2154e218f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1d51eed8b5a5426ea83337793faec619", async() => {
                 BeginContext(920, 94, true);
                 WriteLiteral("\r\n            <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"Bathroom Furniture\"");
                 EndContext();
@@ -205,7 +205,7 @@ WriteAttributeValue("", 1059, Url.Action("ProductType","Product",new { type = Pr
             WriteLiteral("\r\n    </div>\r\n    <div class=\"row\">\r\n        <div class=\"col-md-4 \">\r\n            ");
             EndContext();
             BeginContext(1245, 279, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfb006b7c5f849eea3d0a9efb0686d2f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "61eaa84dff1d4e3d8007e4d220398312", async() => {
                 BeginContext(1264, 101, true);
                 WriteLiteral("\r\n                <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"Living Room Furniture\"");
                 EndContext();
@@ -241,7 +241,7 @@ WriteAttributeValue("", 1414, Url.Action("ProductType","Product",new { type = Pr
             WriteLiteral("\r\n        </div>\r\n        <div class=\"col-md-4 \">\r\n            ");
             EndContext();
             BeginContext(1587, 255, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f5bb610f35ed4d42a6f4b9da2541c666", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "91fb3b1ab4d841e1b2ebd438ab5172c8", async() => {
                 BeginContext(1606, 88, true);
                 WriteLiteral("\r\n                <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"WallBeds\"");
                 EndContext();
@@ -277,7 +277,7 @@ WriteAttributeValue("", 1743, Url.Action("ProductType","Product",new { type = Pr
             WriteLiteral("\r\n        </div>\r\n        <div class=\"col-md-4 \">\r\n            ");
             EndContext();
             BeginContext(1905, 276, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "898f8ec4e32944b5a9496e90d9061f3b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "533141cb975a4261ac8428e910e72b9f", async() => {
                 BeginContext(1924, 99, true);
                 WriteLiteral("\r\n                <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"Childrens Furniture\"");
                 EndContext();
@@ -313,7 +313,7 @@ WriteAttributeValue("", 2072, Url.Action("ProductType","Product",new { type = Pr
             WriteLiteral("\r\n        </div>\r\n\r\n    </div>\r\n    <div class=\"row\">\r\n        <div class=\"col-md-4\"></div>\r\n        <div class=\"col-md-1 \">\r\n            ");
             EndContext();
             BeginContext(2319, 249, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "26aefe85897a44868d55c51f99dadaf0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ed156f768b14f35a7d0d6de65f1f969", async() => {
                 BeginContext(2338, 85, true);
                 WriteLiteral("\r\n                <input type=\"button\" class=\"btns\" title=\"ProductType\" value=\"Other\"");
                 EndContext();
@@ -359,7 +359,7 @@ WriteAttributeValue("", 2472, Url.Action("ProductType","Product",new { type = Pr
             WriteLiteral("            <div class=\"col-md-12\">\r\n                ");
             EndContext();
             BeginContext(2776, 264, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "54e684dfcb544e29a383b0f55b12718e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b6d79b53c2d41c785a23d85b23c9e5c", async() => {
                 BeginContext(2795, 90, true);
                 WriteLiteral("\r\n                    <input type=\"button\" class=\"btn btn-sm\" title=\"User\" value=\"My Home\"");
                 EndContext();

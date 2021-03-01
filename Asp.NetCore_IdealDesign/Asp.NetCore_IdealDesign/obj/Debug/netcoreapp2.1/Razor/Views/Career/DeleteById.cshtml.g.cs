@@ -100,7 +100,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
                     ");
             EndContext();
             BeginContext(421, 211, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1163f8a0f00c41c290f1fcc438e6cab3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6d8b9328a39f4bfbb42ed1c7e3de64b8", async() => {
                 BeginContext(526, 99, true);
                 WriteLiteral("\r\n                        <input class=\"ask-yes\" type=\"submit\" value=\"YES\" />\r\n                    ");
                 EndContext();
