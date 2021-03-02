@@ -1,4 +1,5 @@
-﻿using IdealDesign_Services.Helper;
+﻿using Asp.NetCore_IdealDesign.Resources.ViewModels;
+using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_WebModels.EnumsVM;
 using IdealDesign_WebModels.VewModels;
@@ -22,24 +23,33 @@ namespace Asp.NetCore_IdealDesign.Controllers
         private readonly IUserService _userService;
         private readonly IHostingEnvironment _env;
         private readonly IToastNotification _toastNotification;
-        private readonly IStringLocalizer<HomeController> _localizer;
+        private readonly IStringLocalizer<UserController> _localizer;
+
+        private readonly LocalizationService _localization;
         public UserController(IUserService userService, IHostingEnvironment env, 
-            IToastNotification toastNotification, IStringLocalizer<HomeController> localizer)
+            IToastNotification toastNotification, IStringLocalizer<UserController> localizer,
+            LocalizationService localization)
         {
             _userService = userService;
             _env = env;
             _toastNotification = toastNotification;
             _localizer = localizer;
+
+            _localization = localization;
         }
         
         public IActionResult GetByUsername(string username)
         {
-            var user = _userService.GetuserByUsername(username);            
+            
+            var user = _userService.GetuserByUsername(username);
+            var usernameLocal = _localization.GetLocalizedHtmlString("Username");
+
             return View(user);
         }
         [HttpPost()]
         public IActionResult GetByUsername(UserVM model)
         {
+            
             try
             {
                 string uniqueFileName;
@@ -85,6 +95,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
         {
             try
             {
+                
                 if (ModelState.IsValid)
                 {
                     bool isAdmin;
@@ -128,6 +139,8 @@ namespace Asp.NetCore_IdealDesign.Controllers
                 CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)),
                 new CookieOptions { Expires = DateTimeOffset.UtcNow.AddDays(1) }
             );
+            
+            
             return LocalRedirect(returnUrl);
         }
     }

@@ -1,9 +1,11 @@
-﻿using IdealDesign_Domain.Enums;
+﻿using Asp.NetCore_IdealDesign.Resources.ViewModels;
+using IdealDesign_Domain.Enums;
 using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_WebModels.EnumsVM;
 using IdealDesign_WebModels.VewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Localization;
 using NToastNotify;
 using Serilog;
 using System;
@@ -21,15 +23,25 @@ namespace Asp.NetCore_IdealDesign.Controllers
     {
         private readonly IProductService _productService;
         private readonly IToastNotification _toastNotification;
-        public ProductController(IProductService productService, IToastNotification toastNotification)
+        private readonly IStringLocalizer<ProductController> _localizer;
+        private readonly LocalizationService _localization;
+        public ProductController(IProductService productService, IToastNotification toastNotification,
+            IStringLocalizer<ProductController> localizer, LocalizationService localization)
         {
             _productService = productService;
             _toastNotification = toastNotification;
+            _localization = localization;
+            _localizer = localizer;
         }
        
         public IActionResult Products()
         {                        
-            List<ProductVM> products = _productService.GetAllProducts().ToList();           
+            List<ProductVM> products = _productService.GetAllProducts().ToList();
+            ViewBag.bathroom = _localizer["Bathroom Furniture"];
+            ViewBag.living = _localizer["Living Room Furniture"];
+            ViewBag.wall = _localizer["Wall Beds"];
+            ViewBag.child = _localizer["Childrens Furniture"];
+            ViewBag.btnLog = _localizer["My Home"];
             return View(products);
         }
         

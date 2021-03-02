@@ -9,4 +9,3 @@ C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Proba\obj\Debu
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Proba\obj\Debug\netcoreapp2.1\Proba.dll
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Proba\obj\Debug\netcoreapp2.1\Proba.pdb
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Proba\obj\Debug\netcoreapp2.1\Proba.genruntimeconfig.cache
-C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Proba\obj\Debug\netcoreapp2.1\Proba.csprojAssemblyReference.cache

@@ -64,7 +64,7 @@ using Microsoft.Extensions.Options;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"80532a131c2619e3b662e5a49d34f6d4e30e39ad", @"/Views/Shared/SelectLanguagePartialView.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ddca1ec8123faa4e059224c7701441ef446b3e2d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2ef4f3a02156cbf08c03b3f75fdad08ec9b640b2", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_SelectLanguagePartialView : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("name", "culture", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -128,7 +128,7 @@ WriteAttributeValue(" ", 553, requestCulture?.Provider?.GetType().Name, 554, 41,
             WriteLiteral(">\r\n    ");
             EndContext();
             BeginContext(603, 526, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6aca9e26c643477986a5ef0fc70f4a8c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f49d68689eed485d949fde9799e697e6", async() => {
                 BeginContext(782, 48, true);
                 WriteLiteral("\r\n        <div class=\"col-md-1\"></div>\r\n        ");
                 EndContext();
@@ -143,7 +143,7 @@ WriteAttributeValue(" ", 553, requestCulture?.Provider?.GetType().Name, 554, 41,
                 WriteLiteral(" ");
                 EndContext();
                 BeginContext(854, 170, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e0f14b8997046249933ceb53b41cc3e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6128923015cd4c74aaa8f6b8a4c0be3b", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_SelectTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper>();

@@ -49,7 +49,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1b31d737e3409afdcb526578ff61328d5b35fa9a", @"/Views/Career/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ddca1ec8123faa4e059224c7701441ef446b3e2d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2ef4f3a02156cbf08c03b3f75fdad08ec9b640b2", @"/Views/_ViewImports.cshtml")]
     public class Views_Career_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<CareerVM>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Detail", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -177,7 +177,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("</td>\r\n                    \r\n                    <td class=\"cell-links\">\r\n                        <div class=\"col-md-1\"></div>\r\n                        ");
             EndContext();
             BeginContext(1235, 126, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "351ac958c1304f74bdbbb06664b98351", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6892e3892cf45dea8c53c8316fc74ec", async() => {
                 BeginContext(1350, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -218,7 +218,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(1486, 255, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "002fbfea616c424b9acef92aee195766", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b0a51b48bce4505b0e8399da36049c8", async() => {
                 BeginContext(1596, 138, true);
                 WriteLiteral("\r\n                        <button type=\"submit\" value=\"delete\" class=\"button button-remove\">Remove Alpicant</button>\r\n                    ");
                 EndContext();

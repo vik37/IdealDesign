@@ -12,17 +12,12 @@
     </div>
     <br />
     <hr />
-
-    @*<div class="col-md-1 img-container">
-            <img style="width:450px; height:200px;" class="img" src="~/images/Ideal_galery/BathroomFurniture/BathroomFurniture-1.jpg" />
-        </div>*@
-    @*</div>*@
-
-    @for (int? i = 1; i <= ViewBag.imgLength; i++)
+    @for (int i = 1; i <= ViewBag.imgLength; i++)
     {
         <div class="col-md-1 img-container">
             <a href="~/images/Ideal_galery/@ViewBag.productType/@ViewBag.productType-@(i).jpg">
-                <img style="width:450px; height:250px;" class="img-thumbnail" src="~/images/Ideal_galery/@ViewBag.productType/@ViewBag.productType-@(i).jpg" asp-append-version="true" />
+                <img style="width:450px; height:250px;" class="img-thumbnail" 
+                     src="~/images/Ideal_galery/@ViewBag.productType/@ViewBag.productType-@(i).jpg" asp-append-version="true" />
             </a>
             <h3>@ViewBag.type - @(i)</h3>
         </div>
@@ -31,16 +26,8 @@
             <div class="row"></div>
         }
 
-    }
-    
-
+    }    
 </div>
-@*<div class="container second-container">
-    <div class="col-md-12 img-second-container">
-        <img style="width:80%; height:320px; margin-left:30%" class="img" src="~/images/Ideal_galery/BathroomFurniture/BathroomFurniture-1.jpg" />
-    </div>
-</div>*@
-
 
 <style>
     .my-container {
@@ -85,35 +72,5 @@
         text-shadow: 2px 2px #0479c2;
         font-size:16px;
     }
-    
-    /*.row {
-        margin: 0 auto;
-        height:400px;
-    }*/
-
-    /*.second-container {
-        border: 3px solid black;
-        
-        margin-top: 250px;
-        width: 100%;
-        height: auto;
-        background-color: #969696;
-        display:block;
-    }
-    .img-second-container{
-        position:relative;
-        width:100%;
-        height:auto;
-        background-color:cadetblue;
-    }*/
 </style>
 
-@*<script type="text/javascript">
-    let img = document.getElementsByClassName("img-container")[0];
-    let secondPage = document.getElementsByClassName("second-container")[0];
-    //img.addEventListener('click', function () {
-        
-    //    secondPage.style.display = "block";
-    //    document.getElementsByClassName("my-container")[0].style.display = "none";
-    //});
-</script>*@

@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿using Asp.NetCore_IdealDesign.Resources.ViewModels;
+using AutoMapper;
 using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_Services.Services;
@@ -17,6 +18,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace Asp.NetCore_IdealDesign
@@ -69,10 +71,19 @@ namespace Asp.NetCore_IdealDesign
             {
                 option.ResourcesPath = "Resources";
             });
+            services.AddLocalization(option => { option.ResourcesPath = "Resources"; });
+            
             services.AddMvc()
-                .AddViewLocalization(option => { option.ResourcesPath = "Resources"; })                
+                //.AddViewLocalization(option => { option.ResourcesPath = "Resources"; })
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
-                .AddDataAnnotationsLocalization()
+                .AddDataAnnotationsLocalization(options =>
+                {
+                    options.DataAnnotationLocalizerProvider = (type, factory) =>
+                    {
+                        var assamblyName = new AssemblyName(typeof(AplicationResource).GetTypeInfo().Assembly.FullName);
+                        return factory.Create("AplicationResource", assamblyName.Name);
+                    };
+                }) 
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.Configure<RequestLocalizationOptions>(option =>
@@ -84,12 +95,13 @@ namespace Asp.NetCore_IdealDesign
                     new CultureInfo("mk"),
                     new CultureInfo("sq")
                 };
-                option.DefaultRequestCulture = new RequestCulture("en-US");
+                option.DefaultRequestCulture = new RequestCulture("en");
                 // formating numbers, data, etc...
                 option.SupportedCultures = supportedCultures;
                 // UI strings that we have localized.
                 option.SupportedUICultures = supportedCultures;
             });
+            services.AddSingleton<LocalizationService>();
 
         }
 
@@ -110,11 +122,13 @@ namespace Asp.NetCore_IdealDesign
             app.UseStaticFiles();
             app.UseCookiePolicy();
 
-            var options = app.ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
-            app.UseRequestLocalization(options.Value);
+            
 
             app.UseAuthentication();
             app.UseNToastNotify();
+
+            var options = app.ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
+            app.UseRequestLocalization(options.Value);
 
             app.UseMvc(routes =>
             {

@@ -49,7 +49,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8d06ab99355c36045a81c9c7ac4503cdc934d2cd", @"/Views/Career/Detail.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ddca1ec8123faa4e059224c7701441ef446b3e2d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2ef4f3a02156cbf08c03b3f75fdad08ec9b640b2", @"/Views/_ViewImports.cshtml")]
     public class Views_Career_Detail : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CareerVM>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("resume"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -134,7 +134,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
             WriteLiteral("</p>\r\n            </div>\r\n\r\n            \r\n            <div class=\"col-md-3\"></div>\r\n            \r\n            <div class=\"col-md-1 container-resume\">\r\n                <h3>RESUME:</h3>\r\n                ");
             EndContext();
             BeginContext(1086, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da238cb26af54deabd72ba66a8d21296", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "47f8eb6cc6f3467b906a0f216198cb82", async() => {
                 BeginContext(1150, 12, false);
 #line 34 "C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\Views\Career\Detail.cshtml"
                                                                           Write(ViewBag.file);
