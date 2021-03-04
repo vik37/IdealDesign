@@ -1,4 +1,4 @@
-﻿using Asp.NetCore_IdealDesign.Resources.ViewModels;
+﻿
 using IdealDesign_Domain.Enums;
 using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
@@ -24,13 +24,12 @@ namespace Asp.NetCore_IdealDesign.Controllers
         private readonly IProductService _productService;
         private readonly IToastNotification _toastNotification;
         private readonly IStringLocalizer<ProductController> _localizer;
-        private readonly LocalizationService _localization;
+        
         public ProductController(IProductService productService, IToastNotification toastNotification,
-            IStringLocalizer<ProductController> localizer, LocalizationService localization)
+            IStringLocalizer<ProductController> localizer)
         {
             _productService = productService;
-            _toastNotification = toastNotification;
-            _localization = localization;
+            _toastNotification = toastNotification;           
             _localizer = localizer;
         }
        
@@ -52,25 +51,26 @@ namespace Asp.NetCore_IdealDesign.Controllers
                 switch (type)
                 {
                     case ProductTypeVM.Kitchens:
-                        ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.Kitchens);
+                        ViewBag.type = _localizer[ServiceHelper.GetDescription(ProductTypeVM.Kitchens)];
                         break;
                     case ProductTypeVM.Wardrobes:
-                        ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.Wardrobes);
+                        ViewBag.type = _localizer[ServiceHelper.GetDescription(ProductTypeVM.Wardrobes)];
                         break;
                     case ProductTypeVM.BathroomFurniture:
-                        ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.BathroomFurniture);
+                        ViewBag.type = _localizer[ServiceHelper.GetDescription(ProductTypeVM.BathroomFurniture)];
                         break;
                     case ProductTypeVM.LivingRoomFurniture:
-                        ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.LivingRoomFurniture);
+                        ViewBag.type = _localizer[ServiceHelper.GetDescription(ProductTypeVM.LivingRoomFurniture)];
                         break;
                     case ProductTypeVM.WallBeds:
-                        ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.WallBeds);
+                        ViewBag.type = 
+                           _localizer[ServiceHelper.GetDescription(ProductTypeVM.WallBeds)];
                         break;
                     case ProductTypeVM.ChildrensFurniture:
                         ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.ChildrensFurniture);
                         break;
                     case ProductTypeVM.Other:
-                        ViewBag.type = ServiceHelper.GetDescription(ProductTypeVM.Other);
+                        ViewBag.type = _localizer[ServiceHelper.GetDescription(ProductTypeVM.Other)];
                         break;
                     default:
                         RedirectToAction("Product/ProductType?type=Kitchens");

@@ -123,13 +123,22 @@
   <data name="Childrens Furniture" xml:space="preserve">
     <value>Мебел за деца</value>
   </data>
+  <data name="Kitchens" xml:space="preserve">
+    <value>Кујни</value>
+  </data>
   <data name="Living Room Furniture" xml:space="preserve">
     <value>Мебел за дневна соба</value>
   </data>
   <data name="My Home" xml:space="preserve">
     <value>Мој Дом</value>
   </data>
-  <data name="Wall Beds" xml:space="preserve">
+  <data name="Other" xml:space="preserve">
+    <value>Останато</value>
+  </data>
+  <data name="WallBeds" xml:space="preserve">
     <value>Зиден кревет</value>
+  </data>
+  <data name="Wardrobes" xml:space="preserve">
+    <value>Гардероби</value>
   </data>
 </root>

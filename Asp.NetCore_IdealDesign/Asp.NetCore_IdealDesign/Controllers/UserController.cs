@@ -1,4 +1,4 @@
-﻿using Asp.NetCore_IdealDesign.Resources.ViewModels;
+﻿
 using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_WebModels.EnumsVM;
@@ -25,24 +25,23 @@ namespace Asp.NetCore_IdealDesign.Controllers
         private readonly IToastNotification _toastNotification;
         private readonly IStringLocalizer<UserController> _localizer;
 
-        private readonly LocalizationService _localization;
+        
         public UserController(IUserService userService, IHostingEnvironment env, 
-            IToastNotification toastNotification, IStringLocalizer<UserController> localizer,
-            LocalizationService localization)
+            IToastNotification toastNotification, IStringLocalizer<UserController> localizer)           
         {
             _userService = userService;
             _env = env;
             _toastNotification = toastNotification;
             _localizer = localizer;
 
-            _localization = localization;
+            
         }
         
         public IActionResult GetByUsername(string username)
         {
             
             var user = _userService.GetuserByUsername(username);
-            var usernameLocal = _localization.GetLocalizedHtmlString("Username");
+            
 
             return View(user);
         }
@@ -129,19 +128,6 @@ namespace Asp.NetCore_IdealDesign.Controllers
         {
             _userService.Logout();
             return RedirectToAction("index", "home");
-        }
-
-        [HttpPost]
-        public IActionResult SetLanguage(string culture, string returnUrl)
-        {
-            Response.Cookies.Append(
-                CookieRequestCultureProvider.DefaultCookieName,
-                CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)),
-                new CookieOptions { Expires = DateTimeOffset.UtcNow.AddDays(1) }
-            );
-            
-            
-            return LocalRedirect(returnUrl);
         }
     }
 }

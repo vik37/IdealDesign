@@ -1,13 +1,9 @@
 ﻿@model UserVM
-@*@inject IViewLocalizer _localizer;*@
-
-@using Asp.NetCore_IdealDesign.Resources.ViewModels
-
+@inject IViewLocalizer _local;
 
 @{
     ViewData["Title"] = Model.Username;
 }
-@inject LocalizationService _local;
 <div class="container my-container">
     <div class="col-md-12">
         <h2>@ViewData["Title"]</h2>
@@ -16,13 +12,14 @@
     @*<div class="col-md-10"></div>*@
     <div class="row"></div>
     <div class="col-md-2">
-        <form enctype="multipart/form-data" class="form-typeOfProducts" asp-action="GetByUsername" asp-controller="User" method="post">
+        <form enctype="multipart/form-data" class="form-typeOfProducts"
+              asp-action="GetByUsername" asp-controller="User" method="post">
             <div class="row">
                 <input type="hidden" asp-for="Id" />
-                @_local.GetLocalizedHtmlString(Path);
+
 
                 <input type="hidden" asp-for="Username" />
-                @_local.GetLocalizedHtmlString("Username")
+
                 <input type="hidden" asp-for="Fullname" />
                 <div class="col-md-10"></div>
                 <div class="col-md-2"></div>
@@ -215,12 +212,13 @@
         letter-spacing: 1.4px;
     }
 
-        .link-applicants:hover {
-            color: #ffffff;
-            font-size: 21px;
-            box-shadow: rgba(255, 255, 255,0.89) -30px -30px 60px;
-            width: 100px;
-        }
+    .link-applicants:hover {
+        color: #ffffff;
+        font-size: 21px;
+        box-shadow: rgba(255, 255, 255,0.89) -30px -30px 60px;
+        width: 100px;
+    }
+    
 </style>
 
 <script type="text/javascript">

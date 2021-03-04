@@ -14,7 +14,7 @@
 }
 <div>
     <form asp-controller="Culture" asp-action="SetLanguage" asp-route-returnUrl="@Context.Request.Path" method="post">
-        Language :-
+        <span class="text-language">@localizer["Language"] :-</span>
         <select name="culture" onchange="this.form.submit();" 
                 asp-for="@requestCulture.RequestCulture.UICulture.Name"
                 asp-items="cultureItem" class="language">
@@ -30,7 +30,9 @@
         cursor: pointer;
         height: 27px;
     }
-
+    .text-language{
+        color:rgb(255 255 255 / 0.50);
+    }
         .language > * {
             color: rgb(23, 71, 172);
         }

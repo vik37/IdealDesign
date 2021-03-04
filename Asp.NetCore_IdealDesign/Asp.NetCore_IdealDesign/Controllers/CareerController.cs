@@ -1,4 +1,5 @@
-﻿using IdealDesign_Services.Helper;
+﻿
+using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_WebModels.VewModels;
 using Microsoft.AspNetCore.Hosting;
@@ -19,11 +20,14 @@ namespace Asp.NetCore_IdealDesign.Controllers
         private readonly ICareerService _career;
         private readonly IHostingEnvironment _env;
         private readonly IToastNotification _toastNotification;
-        public CareerController(ICareerService career, IHostingEnvironment env, IToastNotification toastNotification)
+
+        public CareerController(ICareerService career, IHostingEnvironment env,
+             IToastNotification toastNotification)
         {
             _career = career;
             _env = env;
             _toastNotification = toastNotification;
+            
         }
 
         [Route("Career/Applicants")]
@@ -51,14 +55,16 @@ namespace Asp.NetCore_IdealDesign.Controllers
         public IActionResult Create()
         {
             _toastNotification.AddInfoToastMessage("For a job application, all fields must be filled out.");
+
             CareerVM model = new CareerVM();
+          ;
             return View(model);
         }
         [HttpPost]
         public IActionResult Create(CareerVM model)
         {         
             try
-            {
+            {              
                 if (ModelState.IsValid)
                 {
                     var allResume = _career.GetAllResumes().ToList();

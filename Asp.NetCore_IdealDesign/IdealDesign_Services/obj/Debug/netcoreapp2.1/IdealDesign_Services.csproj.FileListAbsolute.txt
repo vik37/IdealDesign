@@ -14,3 +14,7 @@ C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Se
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\obj\Debug\netcoreapp2.1\IdealDesign_Services.csproj.CopyComplete
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\obj\Debug\netcoreapp2.1\IdealDesign_Services.dll
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\obj\Debug\netcoreapp2.1\IdealDesign_Services.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\bin\Debug\netcoreapp2.1\mk\IdealDesign_Services.resources.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\obj\Debug\netcoreapp2.1\IdealDesign_Services.Helper.ModelResource.MyDataAnnotation.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\obj\Debug\netcoreapp2.1\IdealDesign_Services.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Services\obj\Debug\netcoreapp2.1\mk\IdealDesign_Services.resources.dll

@@ -29,21 +29,15 @@
                 <h1>IDEAL DESIGN STUDIO</h1>
                 <Div class="col-md-8">   </Div>
                 <div class="col-xs-6 col-md-3">
-                    @*@await Html.PartialAsync("SelectLanguagePartialView")*@
                     @await Html.PartialAsync("_SetLanguagePartial")
                 </div>
                 @if (User.Identity.IsAuthenticated)
                 {
-
                     <a asp-controller="User" asp-action="Logout">Logout</a>
-
-
                 }
                 else
                 {
-
                     <a asp-controller="User" asp-action="Login">Login</a>
-
                 }
             </div>
             

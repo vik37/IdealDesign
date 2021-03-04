@@ -1,14 +1,15 @@
 ﻿@model LoginVM
+@inject IViewLocalizer _local;
 @{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = _local["Login"];
 }
 
 
 <div class="container my-container">
-    <h2>@ViewData["Title"]  <span class="glyphicon glyphicon-log-in"></span></h2>
-    
+    <h2 class="log-headihg"><span class="glyphicon glyphicon-log-in"> @ViewData["Title"]</span></h2>
+
     <div>
-        <h3>Login only for ADMIN</h3>
+        <h3 class="info">@_local["Login is only for ADMIN"]</h3>
         <div col-md-12>
             <form asp-action="Login" asp-controller="User" method="post">
                 <div class="row">
@@ -17,11 +18,12 @@
                         <label asp-for="Username"></label>
                         <div class="input-group">
                             <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
-                            <input class="form-control" type="text" asp-for="Username" />
+                            <input class="form-control danger" type="text" asp-for="Username" />
                         </div>
                         <span asp-validation-for="Username" class="text-danger"></span>
                     </div>
                 </div>
+                <br />
                 <div class="row">
                     <div class="col-md2"></div>
                     <div class="col-md-4">
@@ -59,5 +61,16 @@
         background-color: #969696;
         padding-left: 130px;
     }
-
+    
+    .log-headihg {
+        border: 1px solid rgb(255 255 255);
+        width:250px;
+        background-image:linear-gradient(140deg,rgb(179 66 66) 20%, rgb(120 31 179) 80%);
+        color:rgb(255 255 255);
+        border-radius:13px;
+    }
+    .info{
+        color:rgb(66 65 65);
+        text-shadow:rgb(255 255 255) 1px 1px 2px;
+    }
 </style>

@@ -1,28 +1,29 @@
 ﻿@model CareerVM
+@inject IViewLocalizer _localizer;
 @{
     ViewData["Title"] = "Detail";
 }
 
-<h2>Detail</h2>
+<h2>@_localizer["Detail"]</h2>
 
 <div class="container my-container">
     <div class="col-md-12">
         <div class="row">
             @*<div class="col-md-1"></div>*@
             <div class="col-md-1 container-model container-model-first">
-                <h3>NAME: <span>@Model.Firstname @Model.Lastname</span> </h3>
+                <h3>@_localizer["FULL NAME"]: <span>@Model.Firstname @Model.Lastname</span> </h3>
             </div>
         </div>
         <div class="row">
             @*<div class="col-md-1"></div>*@
             <div class="col-md-1 container-model">
-                <h3>PHONE: <span>@Model.Phone</span> </h3>
+                <h3>@Html.DisplayNameFor(x => x.Phone): <span>@Model.Phone</span> </h3>
             </div>
         </div>
         <div class="row">
             @*<div class="col-md-1"></div>*@
             <div class="col-md-1 container-model container-model-description">
-                <h3>DESCRIPTION: </h3>
+                <h3>@Html.DisplayNameFor(x => x.Description): </h3>
                 <p class="text-description">@Model.Description</p>
             </div>
 
@@ -40,14 +41,14 @@
     .my-container {
         /*border: 3px solid black;*/
         /*padding: 50px;*/
-        margin-top: 210px;
+        margin-top: 190px;
         width: 100%;
         height: auto;
         background-color: #969696;
         padding-left:100px;
     }
     .container-model {
-        width: 400px;
+        width: 600px;
         border-bottom: 2px double #ffffff;
         border-top:dashed 1px #fff;
         border-radius:30px;

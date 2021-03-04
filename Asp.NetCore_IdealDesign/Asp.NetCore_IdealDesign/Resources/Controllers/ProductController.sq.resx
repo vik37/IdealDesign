@@ -123,13 +123,22 @@
   <data name="Childrens Furniture" xml:space="preserve">
     <value>Mobilje për fëmijë</value>
   </data>
+  <data name="Kitchens" xml:space="preserve">
+    <value>Kuzhina</value>
+  </data>
   <data name="Living Room Furniture" xml:space="preserve">
     <value>Dhoma e ndenjes</value>
   </data>
   <data name="My Home" xml:space="preserve">
     <value>Shtepia ime</value>
   </data>
-  <data name="Wall Beds" xml:space="preserve">
+  <data name="Other" xml:space="preserve">
+    <value>TëTjera</value>
+  </data>
+  <data name="WallBeds" xml:space="preserve">
     <value>Shtretër muri</value>
+  </data>
+  <data name="Wardrobes" xml:space="preserve">
+    <value>Veshjet</value>
   </data>
 </root>

@@ -1,4 +1,5 @@
-﻿using Asp.NetCore_IdealDesign.Resources.ViewModels;
+﻿//using Asp.NetCore_IdealDesign.Resources;
+using Asp.NetCore_IdealDesign.Resources;
 using AutoMapper;
 using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
@@ -12,6 +13,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Localization;
 using Microsoft.Extensions.Options;
 using NToastNotify;
 using System;
@@ -76,14 +78,15 @@ namespace Asp.NetCore_IdealDesign
             services.AddMvc()
                 //.AddViewLocalization(option => { option.ResourcesPath = "Resources"; })
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
-                .AddDataAnnotationsLocalization(options =>
+                .AddModelBindingMessagesLocalizer(services)
+                .AddDataAnnotationsLocalization(option =>
                 {
-                    options.DataAnnotationLocalizerProvider = (type, factory) =>
-                    {
-                        var assamblyName = new AssemblyName(typeof(AplicationResource).GetTypeInfo().Assembly.FullName);
-                        return factory.Create("AplicationResource", assamblyName.Name);
-                    };
-                }) 
+                    var type = typeof(ViewResource);
+                    var assemblyName = new AssemblyName(type.GetTypeInfo().Assembly.FullName);
+                    var factory = services.BuildServiceProvider().GetService<IStringLocalizerFactory>();
+                    var localizer = factory.Create("ViewResource", assemblyName.Name);
+                    option.DataAnnotationLocalizerProvider = (t, f) => localizer;
+                })                
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.Configure<RequestLocalizationOptions>(option =>
@@ -101,7 +104,7 @@ namespace Asp.NetCore_IdealDesign
                 // UI strings that we have localized.
                 option.SupportedUICultures = supportedCultures;
             });
-            services.AddSingleton<LocalizationService>();
+            //services.AddSingleton<LocalizationService>();
 
         }
 

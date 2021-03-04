@@ -57,7 +57,6 @@ C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_Id
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.csproj.GenerateResource.cache
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\mk\Asp.NetCore_IdealDesign.resources.dll
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Home.Contact.mk.resources
-C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Razor\Views\Shared\SelectLanguagePartialView.cshtml.g.cs
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\bin\Debug\netcoreapp2.1\sq\Asp.NetCore_IdealDesign.resources.dll
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Home.Contact.sq.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\sq\Asp.NetCore_IdealDesign.resources.dll
@@ -65,7 +64,6 @@ C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_Id
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Shared._Layout.mk.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Shared._Layout.sq.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Controllers.UserController.mk.resources
-C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.ViewModels.UserVM.mk.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SetLanguagePartial.cshtml.g.cs
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Product.Products.mk.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Controllers.ProductController.mk.resources
@@ -73,3 +71,16 @@ C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_Id
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Product.Products.sq.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Product.Galery.mk.resources
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Product.Galery.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.Create.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.ViewResource.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\bin\Debug\netcoreapp2.1\mk\IdealDesign_Services.resources.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.Detail.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.Create.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.DeleteById.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.DeleteById.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.Detail.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.Index.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.ViewResource.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Career.Index.sq.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.User.Login.mk.resources
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\Asp.NetCore_IdealDesign\obj\Debug\netcoreapp2.1\Asp.NetCore_IdealDesign.Resources.Views.Shared._SetLanguagePartial.mk.resources
