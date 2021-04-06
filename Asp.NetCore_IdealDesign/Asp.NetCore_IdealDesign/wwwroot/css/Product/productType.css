@@ -1,0 +1,27 @@
+﻿.img-container {
+    width: 350px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    text-shadow: 2px 2px #0479c2;
+    font-size: 16px;
+}
+
+@media (max-width: 767px) {
+    .img-container {
+        margin-left: 20px;
+    }
+}
+@media only screen and (max-width: 400px){
+    .img-container{
+        margin-left:-15px;
+        width:300px;
+    }
+}

@@ -153,6 +153,9 @@
   <data name="More than 2501 letters are not allowed" xml:space="preserve">
     <value>Повеќе од 2501-на буква не е дозволено</value>
   </data>
+  <data name="Only number is allowed and -" xml:space="preserve">
+    <value>Дозволено е само број и - </value>
+  </data>
   <data name="Password" xml:space="preserve">
     <value>Лозинка</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Please select file" xml:space="preserve">
     <value>Ве молиме одберете датотека</value>
+  </data>
+  <data name="Upload CV" xml:space="preserve">
+    <value>Прикачи CV</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Корисничко Име</value>

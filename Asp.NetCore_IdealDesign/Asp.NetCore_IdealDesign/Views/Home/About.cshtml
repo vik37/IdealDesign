@@ -1,7 +1,58 @@
 ﻿@{
     ViewData["Title"] = "About";
 }
-<h2>@ViewData["Title"]</h2>
-<h3>@ViewData["Message"]</h3>
 
-<p>Use this area to provide additional information.</p>
+<div class="container my-container">
+    <h2>@ViewData["Title"]</h2>
+    <h3>@ViewData["Message"]</h3>
+
+    <p>Use this area to provide additional information.</p>
+    <div class="log">
+        @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+        {
+            <a asp-controller="User" asp-action="Logout" class="logout">Log Out</a>
+        }
+        else
+        {
+            <a asp-controller="User" asp-action="Login" class="login">&#9760;</a>
+        }
+    </div>
+</div>
+<style type="text/css">
+    .my-container {
+        margin-top: 250px;
+        width: 100%;
+        height: auto;
+        background-color: #969696;
+    }
+    .login {
+        color: rgb(246 6 6);
+        font-size: 43px;
+        font-weight: bolder;
+        text-shadow: 1px 2px 3px rgb(0 144 5);
+        background-color: rgb(5 0 0 / 2.40);
+        border-radius: 110px;
+        border:2px dashed rgb(255 255 255);
+        
+    }
+    .login:hover{
+        text-decoration:none;
+        color:rgb(255 255 255);
+        text-shadow: 1px 2px 3px rgb(228 2 2);
+        cursor:not-allowed;
+    }
+    /*.logout {
+        width: 250px;
+        background-color: rgb(212 186 26 / 0.89);
+        border: 2px inset rgb(21 228 155);
+        
+    }*/
+    .log {
+        width: 70px;
+        background-color: rgb(212 186 26 / 0.49);
+        border: 3px inset rgb(21 228 155);
+        border-radius: 110px;
+        text-align:center;
+        
+    }
+</style>

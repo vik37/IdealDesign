@@ -1809,10 +1809,24 @@
           "bin/placeholder/IdealDesign_Domain.dll": {}
         }
       },
+      "IdealDesign_Validation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/IdealDesign_Validation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IdealDesign_Validation.dll": {}
+        }
+      },
       "IdealDesign_WebModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "IdealDesign_Validation": "1.0.0",
           "Microsoft.AspNetCore.Http.Features": "2.1.1"
         },
         "compile": {
@@ -6021,6 +6035,11 @@
       "path": "../IdealDesign_Domain/IdealDesign_Domain.csproj",
       "msbuildProject": "../IdealDesign_Domain/IdealDesign_Domain.csproj"
     },
+    "IdealDesign_Validation/1.0.0": {
+      "type": "project",
+      "path": "../IdealDesign_Validation/IdealDesign_Validation.csproj",
+      "msbuildProject": "../IdealDesign_Validation/IdealDesign_Validation.csproj"
+    },
     "IdealDesign_WebModels/1.0.0": {
       "type": "project",
       "path": "../IdealDesign_WebModels/IdealDesign_WebModels.csproj",
@@ -6140,7 +6159,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

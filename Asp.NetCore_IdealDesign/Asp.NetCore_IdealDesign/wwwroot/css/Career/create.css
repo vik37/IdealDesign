@@ -1,0 +1,308 @@
+﻿.container-advertiser {
+    width: 100%;
+    height: auto;
+    border: 1px solid rgb(255, 252, 252);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: none;
+}
+
+legend {
+    padding: 5px 10px;
+    width: 400px;
+    background-color: rgb(0 0 0);
+    text-shadow: 3px 1px 1px rgb(20 144 168);
+    color: rgb(255 255 255);
+    border: 1px solid rgb(255, 252, 252);
+    letter-spacing: 1.8px;
+    text-transform: capitalize;
+}
+
+.advertaiser-text {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: sans-serif;
+    letter-spacing: 1.2px;
+    color: rgb(255 255 255);
+    text-shadow: 1px 1px 2px rgb(0 0 0);
+    text-align: center;
+}
+
+    .advertaiser-text::first-letter {
+        font-size: 34px;
+        font-weight: bolder;
+        color: rgb(248 255 12);
+        text-shadow: 2px 2px 1px rgb(0 0 0);
+    }
+
+.container-form {
+    padding: 20px 1px 20px 90px;
+    width: 100%;
+    height: auto;
+    border: 1px solid rgb(255, 252, 252);
+}
+
+.form-blocks {
+    width: 400px;
+    background-color: brown;
+    height: 80px;
+    margin: 5px auto;
+    border-bottom-left-radius: 10px;
+}
+
+.text-firstname {
+    width: 320px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+.container-lastName {
+    padding-bottom: 60px;
+}
+
+.text-lastname {
+    width: 320px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+.glyphicon {
+    padding-left: 5px;
+    background-color: rgba(255, 252, 252, 0.86);
+}
+
+.glyphicon-upload {
+    width: 250px;
+    background-color: rgba(255, 255, 255, 0.00);
+    font-size: 34px;
+    text-shadow: 1px -1px 4px white;
+}
+
+.text-danger {
+    width: 350px;
+    text-align: center;
+    margin: 1px 0 7px 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    text-shadow: 1px 2px 1px white;
+    background-color: rgba(255, 255, 255, 0.19);
+    border-radius: 30px;
+    box-decoration-break: slice;
+    border: 2px solid white;
+}
+
+.error-firstname {
+    margin: 0 200px 0 10px;
+}
+
+.Phone {
+    width: 280px;
+    margin-left: 16px;
+}
+
+.text-phone {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+.glyphicon-phone {
+    font-size: 20px;
+}
+
+.description {
+    height: 250px;
+    width: 50%;
+    margin-left: 50px;
+}
+
+.description-text {
+    width: 100%;
+    height: 80%;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.8px;
+}
+
+.container-file {
+    width: 200px;
+    height: 120px;
+    padding: 15px 0 1px 0;
+    text-align: center;
+    font-size: 28px;
+    background-color: rgba(49, 183, 2, 0.17);
+    box-shadow: rgba(11, 43, 102, 0.55) 20px 20px 60px inset;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+    .btn-file [type=file] {
+        position: absolute;
+        top: 0;
+        right: 0;
+        min-width: 100%;
+        min-height: 100%;
+        font-size: 100px;
+        text-align: right;
+        filter: opacity(0);
+        opacity: 0;
+        outline: none;
+        background: rgb(255 255 255);
+        cursor: inherit;
+        display: block;
+    }
+
+.label-resume {
+    cursor: pointer;
+}
+
+.error-resume {
+    margin-left: 40px;
+}
+
+.button {
+    width: 200px;
+}
+
+.form-button {
+    width: 150px;
+    height: 40px;
+    margin: 20px 10px 20px 10px;
+    background-image: repeating-radial-gradient(circle at 50%, #333, #333 10px, #eee 30px, #eee 20px);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    text-shadow: 2px 2px 2px rgb(86, 176, 196);
+    font-size: 22px;
+    letter-spacing: 2.3px;
+    transition: background 12s ease-out;
+}
+
+    .form-button:active {
+        box-shadow: rgb(0, 0, 0) 2px 1px 30px;
+    }
+
+    .form-button:hover {
+        background-image: repeating-radial-gradient(circle at 50%, #333, #333 -10px, #eee 5px, #eee -20px);
+        color: rgb(253, 255, 198);
+        text-shadow: 1px 1px 3px rgb(0, 0, 0);
+        background-position: 20px;
+    }
+
+label {
+    color: rgba(255, 255, 255, 1);
+    text-shadow: 2px 2px 1px #333;
+    letter-spacing: 2px;
+}
+
+@media (max-width: 767px) {
+    legend {
+        width: 340px;
+        height: 60px;
+        text-align: center;
+    }
+
+    .container-form {
+        padding-left: 1px;
+    }
+
+    .form-blocks {
+        width: 380px;
+    }
+
+    .text-danger {
+        width: 280px;
+    }
+
+    .glyphicon {
+        padding-left: 2px;
+    }
+
+    .text-phone {
+        margin-left: 0px;
+        width: 250px;
+    }
+
+    .description {
+        margin-left: 15px;
+    }
+
+    .form-button {
+        margin-left: 95px;
+    }
+
+    .text-danger {
+        margin-left: 30px;
+        width: 85%;
+    }
+
+    .button {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 1395px) {
+    .button {
+        margin-left: 16px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    legend{
+        width:200px;
+    }
+    .container-form{
+        width:110%;
+        margin-left:-15px;
+    }
+    .form-blocks{
+        width:280px;
+        margin-left:0;
+    }
+    
+    .text-firstname{
+        display:block;
+        width:250px;
+        
+    }
+    .glyphicon {
+        width: 255px;     
+    }
+    .text-lastname {
+        width: 250px;
+        margin-left: 0;
+    }
+    .Phone{
+        margin-left:15px;
+        height:100px;
+    }
+    .glyphicon-phone{
+        width:255px;
+        height:65px;
+    }
+    .description{
+        margin-left:15px;
+    }
+    .container-file{
+        margin-left:16px;
+    }
+    .glyphicon-upload{
+        margin-left:40px;
+    }
+    .button{
+        margin-left:15px;
+    }
+    .form-button{
+        margin-left:50px;
+    }
+}

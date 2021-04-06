@@ -120,4 +120,10 @@
   <data name="Career" xml:space="preserve">
     <value>Karriera</value>
   </data>
+  <data name="If you find yourself in our field: design and furniture design, furniture production, then we encourage you to contact us as follows." xml:space="preserve">
+    <value>Nëse e gjeni veten në fushën tonë: dizajnin dhe modelimin e mobiljeve, prodhimin e mobiljeve, atëherë ne ju inkurajojmë të na kontaktoni si më poshtë.</value>
+  </data>
+  <data name="Join our team" xml:space="preserve">
+    <value>Bashkohuni me ekipin tonë</value>
+  </data>
 </root>

@@ -32,5 +32,9 @@ namespace Asp.NetCore_IdealDesign
             WebHost.CreateDefaultBuilder(args)
                 .UseSerilog()
                 .UseStartup<Startup>();
+                //.UseKestrel(options =>
+                //{
+                //    options.Limits.MaxRequestBodySize = 3145728;
+                //});
     }
 }

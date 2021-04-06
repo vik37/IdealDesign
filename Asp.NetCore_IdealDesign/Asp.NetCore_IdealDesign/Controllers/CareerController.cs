@@ -2,6 +2,7 @@
 using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_WebModels.VewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -31,11 +32,13 @@ namespace Asp.NetCore_IdealDesign.Controllers
         }
 
         [Route("Career/Applicants")]
+        [Authorize(Roles = "admin")]
         public IActionResult Index()
         {
             var careers = _career.GetAll().ToList();
             return View(careers);
         }
+        [Authorize(Roles = "admin")]
         public IActionResult Detail(int id)
         {
             try
@@ -57,7 +60,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
             _toastNotification.AddInfoToastMessage("For a job application, all fields must be filled out.");
 
             CareerVM model = new CareerVM();
-          ;
+          
             return View(model);
         }
         [HttpPost]
@@ -70,6 +73,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
                     var allResume = _career.GetAllResumes().ToList();
                     if(model.Resume != null)
                     {
+                        ViewBag.ErrorFileLength = "File is to large";
                         foreach(var resume in allResume)
                         {
                             if(model.Resume.FileName == resume)
@@ -105,6 +109,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
             }          
             return View(model);
         }
+        [Authorize(Roles = "admin")]
         public IActionResult DeleteById(int id)
         {
             try
@@ -121,6 +126,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Delete(int id)
         {
             try

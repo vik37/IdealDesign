@@ -28,6 +28,7 @@ namespace IdealDesign_Services.Services
             try
             {
                 User user = _userRepo.GetByUsername(username);
+                
                 return new UserVM
                 {
                     Id = user.Id,

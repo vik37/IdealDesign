@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using IdealDesign_Validation;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -20,12 +21,15 @@ namespace IdealDesign_WebModels.VewModels
         [Display(Name = "PHONE")]
         [Required(ErrorMessage = "Phone is required"), MinLength(6, ErrorMessage = "Less than 6 numbers is not allowed"),
             MaxLength(20, ErrorMessage = "More than 10 letters are not allowed")]
+        [RegularExpression(@"^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$", ErrorMessage = "Only number is allowed and -")]
         public string Phone { get; set; }
         [Display(Name ="DESCRIPTION")]
         [Required(ErrorMessage = "Description is required"), MinLength(20, ErrorMessage = "Less than 20 letters is not allowed"),
             MaxLength(2501, ErrorMessage = "More than 2501 letters are not allowed")]
         public string Description { get; set; }
         [Required(ErrorMessage = "Please select file")]
+        [Display(Name ="Upload CV")]
+        [MaxFileSize(3145728,ErrorMessage ="File to large")]
         /*[RegularExpression(@"([a-zA-Z0-9\s_\\.\-:])+(docx|DOCX|pdf|PDF)$", ErrorMessage = "Only Microsoft word and pdf files allowed.")]*/
         public IFormFile Resume { get; set; }
 

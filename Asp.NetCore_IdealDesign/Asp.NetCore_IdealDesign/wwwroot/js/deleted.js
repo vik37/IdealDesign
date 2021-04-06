@@ -1,0 +1,1 @@
+﻿!function () { let t = document.getElementsByClassName("no")[0]; t.addEventListener("click", function () { window.location.href = "https://localhost:44313/Career/Applicants" }) }();

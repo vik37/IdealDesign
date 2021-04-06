@@ -2,6 +2,7 @@
 using System.Reflection;
 using System.ComponentModel;
 using System.IO;
+using System.Text.RegularExpressions;
 
 namespace Proba
 {
@@ -9,23 +10,32 @@ namespace Proba
     {
         static void Main(string[] args)
         {
-            var name = GetDescription(ProductType.BathroomFurniture);
+            //var name = GetDescription(ProductType.BathroomFurniture);
 
-            Console.WriteLine(name);
-            string[] splitted = name.Split(" ");
-            Console.WriteLine("---------------------");
-            for (int i = 0; i < splitted.Length; i++)
+            //Console.WriteLine(name);
+            //string[] splitted = name.Split(" ");
+            //Console.WriteLine("---------------------");
+            //for (int i = 0; i < splitted.Length; i++)
+            //{
+            //    Console.WriteLine($"{splitted[0]}{splitted[1]}");
+            //}
+            //Console.WriteLine();
+
+
+            //int someLength = ReturnLength(ProductType.Kitchens);
+
+            //Console.WriteLine(someLength);
+            Regex rg = new Regex("^[0-9]$");
+            string txt = "ghgjg";
+            if (rg.IsMatch(txt))
             {
-                Console.WriteLine($"{splitted[0]}{splitted[1]}");
+                Console.WriteLine(true);
             }
-            Console.WriteLine();
-
-
-            int someLength = ReturnLength(ProductType.Kitchens);
-
-            Console.WriteLine(someLength);
-
-
+            else
+            {
+                Console.WriteLine(false);
+            }
+            
             Console.ReadLine();
         }
 

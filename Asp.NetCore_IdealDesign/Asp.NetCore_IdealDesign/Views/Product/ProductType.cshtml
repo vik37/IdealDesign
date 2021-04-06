@@ -4,8 +4,6 @@
     
 }
 
-<h2>ProductType</h2>
-
 <div class="container my-container">
     <div class="col-md-12">
         <h2>@ViewBag.type</h2>
@@ -14,7 +12,7 @@
     <hr />
     @for (int i = 1; i <= ViewBag.imgLength; i++)
     {
-        <div class="col-md-1 img-container">
+        <div class="col-sm-1 col-md-1 img-container">
             <a href="~/images/Ideal_galery/@ViewBag.productType/@ViewBag.productType-@(i).jpg">
                 <img style="width:450px; height:250px;" class="img-thumbnail" 
                      src="~/images/Ideal_galery/@ViewBag.productType/@ViewBag.productType-@(i).jpg" asp-append-version="true" />
@@ -25,52 +23,9 @@
         {
             <div class="row"></div>
         }
-
     }    
+    <partial name="_BackToTopPartial" />
 </div>
+<link href="~/css/Product/productType.css" rel="stylesheet" />
 
-<style>
-    .my-container {
-        /*border: 3px solid black;*/
-        /*padding: 50px;*/
-        margin-top: 210px;
-        width: 100%;
-        height: auto;
-        background-color: #969696;
-        
-    }
-    
-    h2 {
-        font-size: 28px;
-        color: rgba(64, 160, 219,0.8);
-        text-shadow: 2px 2px 3px #fff;
-        letter-spacing: 3.5px;
-        text-decoration: underline;
-        font-family: 'Felix Titling';
-        font-weight: 600;
-        background-color: rgba(0, 0, 0, 0.64);
-        text-align: center;
-        width: 750px;
-        height: 40px;
-        margin: 0 auto;
-        padding: 2px;
-        border-radius: 60px;
-        border-left: 10px solid black;
-        border-right: 10px solid black;
-    }
-    .img-container{
-        width:350px;
-        height:300px;
-        margin-top:10px;
-        margin-bottom:10px;
-    }
-    h3 {
-        background-color: black;
-        color: white;
-        border-radius: 20px;
-        text-align: center;
-        text-shadow: 2px 2px #0479c2;
-        font-size:16px;
-    }
-</style>
 

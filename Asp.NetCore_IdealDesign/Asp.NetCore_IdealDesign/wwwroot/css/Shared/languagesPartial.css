@@ -1,0 +1,82 @@
+﻿.language {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    height: 27px;
+    margin-top: 60px;
+}
+
+.text-language {
+    color: rgb(255 255 255 / 0.50);
+}
+
+.language > * {
+    color: rgb(23, 71, 172);
+}
+
+[value="mk"] {
+    color: rgba(255, 0, 0,0.60);
+}
+
+[value="en-US"] {
+    color: rgba(2, 189, 4,0.60);
+}
+
+[value="sq"] {
+    color: rgba(153, 22, 172,0.60);
+}
+
+[selected="selected"] {
+    background-color: rgba(245, 255, 74, 0.90);
+    color: rgb(0, 0, 0);
+}
+
+.form-horizontal {
+    color: rgba(255, 255, 255, 0.57);
+}
+
+.btn-language {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(248, 6, 255);
+    outline-offset: 1px;
+    outline-color: cornsilk;
+    outline-width: 2px;
+    border-radius: 6px;
+    border: 2px inset;
+    outline-style: groove;
+    transition: outline-offset 0.5s ease-out;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    transition: background-color 1.8s ease-out;
+    text-decoration: underline;
+}
+
+    .btn-language:hover {
+        text-shadow: 1px 1px 2px rgb(255, 255, 255);
+        background-color: rgb(120, 206, 229);
+        font-weight: bolder;
+    }
+
+    .btn-language:active {
+        outline-offset: 3px;
+        box-shadow: rgb(255, 255, 255) 1px 1px 30px;
+        font-size: 14px;
+    }
+
+@media (max-width: 768px) {
+    .text-language {
+        display: none;
+    }
+
+    .language {
+        width: 120px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .text-language {
+        display: none;
+    }
+}

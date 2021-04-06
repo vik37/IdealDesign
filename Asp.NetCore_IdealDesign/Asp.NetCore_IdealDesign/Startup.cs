@@ -7,6 +7,7 @@ using IdealDesign_Services.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
@@ -52,7 +53,7 @@ namespace Asp.NetCore_IdealDesign
             {
                 option.Cookie.HttpOnly = true;
                 option.ExpireTimeSpan = TimeSpan.FromMinutes(60);
-                option.LoginPath = "/User/Login";
+                option.LoginPath = "/Home/Index";
                 option.AccessDeniedPath = "/User/Login";
                 option.SlidingExpiration = true;
             });
@@ -69,16 +70,12 @@ namespace Asp.NetCore_IdealDesign
                 PositionClass = ToastPositions.TopRight,
                 CloseButton = true
             });
-            services.AddLocalization(option =>
-            {
-                option.ResourcesPath = "Resources";
-            });
+            
             services.AddLocalization(option => { option.ResourcesPath = "Resources"; });
             
-            services.AddMvc()
-                //.AddViewLocalization(option => { option.ResourcesPath = "Resources"; })
+            services.AddMvc()               
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
-                .AddModelBindingMessagesLocalizer(services)
+                //.AddModelBindingMessagesLocalizer(services)
                 .AddDataAnnotationsLocalization(option =>
                 {
                     var type = typeof(ViewResource);
@@ -104,8 +101,10 @@ namespace Asp.NetCore_IdealDesign
                 // UI strings that we have localized.
                 option.SupportedUICultures = supportedCultures;
             });
-            //services.AddSingleton<LocalizationService>();
-
+            //services.Configure<FormOptions>(x =>
+            //{
+            //    x.MultipartBodyLengthLimit = 3145728;
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -124,9 +123,7 @@ namespace Asp.NetCore_IdealDesign
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
-
             
-
             app.UseAuthentication();
             app.UseNToastNotify();
 

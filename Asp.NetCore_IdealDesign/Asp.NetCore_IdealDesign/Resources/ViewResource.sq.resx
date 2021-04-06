@@ -153,6 +153,9 @@
   <data name="More than 2501 letters are not allowed" xml:space="preserve">
     <value>Më shumë se 2501 shkronja nuk lejohen</value>
   </data>
+  <data name="Only number is allowed and -" xml:space="preserve">
+    <value>Lejohet vetëm numri dhe -</value>
+  </data>
   <data name="Password" xml:space="preserve">
     <value>Fjalëkalimi</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Please select file" xml:space="preserve">
     <value>Ju lutemi zgjidhni skedarin</value>
+  </data>
+  <data name="Upload CV" xml:space="preserve">
+    <value>Ngarko CV</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Emri i përdoruesit</value>

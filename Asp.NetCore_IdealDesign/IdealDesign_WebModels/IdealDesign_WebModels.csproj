@@ -8,4 +8,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="2.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IdealDesign_Validation\IdealDesign_Validation.csproj" />
+  </ItemGroup>
+
 </Project>

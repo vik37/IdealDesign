@@ -10,8 +10,7 @@ namespace IdealDesign_DataAccess.Repositories
     public class CareerRepository : BaseRepository, IRepository<Career>
     {
         public CareerRepository(IdDesignDbContext context) : base(context) { }
-        
-       
+               
         public IEnumerable<Career> GetAll()
         {
             return _db.Career;

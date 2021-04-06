@@ -1,9 +1,9 @@
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\bin\Debug\netcoreapp2.1\IdealDesign_Domain.deps.json
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\bin\Debug\netcoreapp2.1\IdealDesign_Domain.dll
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\bin\Debug\netcoreapp2.1\IdealDesign_Domain.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.csprojAssemblyReference.cache
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.AssemblyInfoInputs.cache
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.AssemblyInfo.cs
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.csproj.CoreCompileInputs.cache
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.dll
 C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.pdb
-C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Domain\obj\Debug\netcoreapp2.1\IdealDesign_Domain.csprojAssemblyReference.cache

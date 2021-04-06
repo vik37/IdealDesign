@@ -3,6 +3,7 @@ using IdealDesign_Services.Helper;
 using IdealDesign_Services.Interfaces;
 using IdealDesign_WebModels.EnumsVM;
 using IdealDesign_WebModels.VewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Localization;
@@ -32,23 +33,30 @@ namespace Asp.NetCore_IdealDesign.Controllers
             _userService = userService;
             _env = env;
             _toastNotification = toastNotification;
-            _localizer = localizer;
-
-            
+            _localizer = localizer;           
         }
-        
+        [Authorize(Roles = "admin")]
         public IActionResult GetByUsername(string username)
         {
-            
-            var user = _userService.GetuserByUsername(username);
-            
-
-            return View(user);
+            try
+            {
+                var user = _userService.GetuserByUsername(username);
+                if(user.Username == username)
+                {
+                    return View(user);
+                }
+                
+            }
+            catch (Exception ex)
+            {
+                Log.Error($"Message: {ex.Message} | Exception: {ex.InnerException}");
+            }
+            return PartialView("ErrorView");
         }
+        [Authorize(Roles ="admin")]
         [HttpPost()]
         public IActionResult GetByUsername(UserVM model)
-        {
-            
+        {          
             try
             {
                 string uniqueFileName;
@@ -59,7 +67,7 @@ namespace Asp.NetCore_IdealDesign.Controllers
                     {
                         if (!ServiceHelper.IsItJpg(photo))
                         {
-                            ViewBag.ImageError = _localizer["File must be jpg"];
+                            ViewBag.imgError = _localizer["File must be jpg"];
                             return View(model);
                         }
                         imgLength += 1;

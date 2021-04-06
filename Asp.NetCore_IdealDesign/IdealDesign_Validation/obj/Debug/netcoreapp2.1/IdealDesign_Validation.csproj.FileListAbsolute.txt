@@ -1,0 +1,8 @@
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\bin\Debug\netcoreapp2.1\IdealDesign_Validation.deps.json
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\bin\Debug\netcoreapp2.1\IdealDesign_Validation.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\bin\Debug\netcoreapp2.1\IdealDesign_Validation.pdb
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\obj\Debug\netcoreapp2.1\IdealDesign_Validation.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\obj\Debug\netcoreapp2.1\IdealDesign_Validation.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\obj\Debug\netcoreapp2.1\IdealDesign_Validation.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\obj\Debug\netcoreapp2.1\IdealDesign_Validation.dll
+C:\Users\vikto\source\repos\Prof_Projects\Asp.NetCore_IdealDesign\IdealDesign_Validation\obj\Debug\netcoreapp2.1\IdealDesign_Validation.pdb

@@ -1,0 +1,24 @@
+﻿.top {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(244 227 0 / 0.85);
+    filter: invert(30%);
+    text-align: center;
+    padding: 0 5px 12px 6px;
+    border: 5px double rgb(177 16 16);
+    border-radius: 60px;
+    outline: 1px solid rgb(0 0 0);
+    box-shadow: rgba(170 62 160 / 0.85) 10px 10px 30px inset;
+    margin-bottom: 10px;
+}
+
+    .top:hover {
+        filter: invert(70%);
+    }
+
+    .top > * {
+        font-size: 40px;
+        font-weight: bolder;
+        color: rgb(0 0 0);
+        text-shadow: 2px 2px 2px rgb(255 255 255);
+    }

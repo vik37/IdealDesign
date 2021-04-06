@@ -95,7 +95,7 @@ using Microsoft.AspNetCore.Mvc.Localization;
                 ");
             EndContext();
             BeginContext(323, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f1f23e3e82b6478fab538fdd8c6e796a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fa4378871437493387966498bbe7013f", async() => {
                 BeginContext(387, 8, true);
                 WriteLiteral("Homepage");
                 EndContext();

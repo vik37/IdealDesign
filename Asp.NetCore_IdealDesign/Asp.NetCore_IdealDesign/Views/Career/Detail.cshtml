@@ -4,100 +4,29 @@
     ViewData["Title"] = "Detail";
 }
 
-<h2>@_localizer["Detail"]</h2>
-
 <div class="container my-container">
     <div class="col-md-12">
         <div class="row">
-            @*<div class="col-md-1"></div>*@
             <div class="col-md-1 container-model container-model-first">
                 <h3>@_localizer["FULL NAME"]: <span>@Model.Firstname @Model.Lastname</span> </h3>
             </div>
         </div>
         <div class="row">
-            @*<div class="col-md-1"></div>*@
             <div class="col-md-1 container-model">
                 <h3>@Html.DisplayNameFor(x => x.Phone): <span>@Model.Phone</span> </h3>
             </div>
         </div>
         <div class="row">
-            @*<div class="col-md-1"></div>*@
             <div class="col-md-1 container-model container-model-description">
                 <h3>@Html.DisplayNameFor(x => x.Description): </h3>
                 <p class="text-description">@Model.Description</p>
-            </div>
-
-            
-            <div class="col-md-3"></div>
-            
-            <div class="col-md-1 container-resume">
+            </div>           
+            <div class="col-md-3"></div>            
+            <div class="col-sm-1 col-md-1 container-resume">
                 <h3>RESUME:</h3>
                 <a class="resume" href="~/data/resumes/@ViewBag.file" download>@ViewBag.file</a>
             </div>
         </div>
     </div>
 </div>
-<style type="text/css">
-    .my-container {
-        /*border: 3px solid black;*/
-        /*padding: 50px;*/
-        margin-top: 190px;
-        width: 100%;
-        height: auto;
-        background-color: #969696;
-        padding-left:100px;
-    }
-    .container-model {
-        width: 600px;
-        border-bottom: 2px double #ffffff;
-        border-top:dashed 1px #fff;
-        border-radius:30px;
-        margin:2px 0 4px 0;
-    }
-    .container-model > * {
-        color: #1e8294;
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size:32px;
-        letter-spacing:1.1px;
-    }
-    .container-model-description {
-        
-    }
-    .text-description {
-        width:340px;
-        height: 130px;
-        overflow:scroll;
-        overflow: auto;
-        font-size: 18px;
-        color: black;
-        text-decoration: underline;
-        
-        background-color:rgb(225, 221, 225);
-
-    }
-    .container-model-first {
-        border-top: none;
-    }
-    
-    .container-resume{
-        width:auto;
-        background-color:black;
-        border:2px solid white;
-        border-radius:14px;
-        box-shadow:rgba(254, 254, 254, 0.80) 15px 10px 70px;
-        color:white;
-        letter-spacing:0.8px;
-        outline-width:medium;
-        outline-style:double;
-        
-    }
-    .resume{
-        color:rgba(253, 250, 250, 0.80);
-        font-size:16px;
-    }
-    .resume:hover{
-        color:rgba(206, 252, 21, 0.79);
-    }
- 
-
-</style>
+<link href="~/css/Career/detail.css" rel="stylesheet" />

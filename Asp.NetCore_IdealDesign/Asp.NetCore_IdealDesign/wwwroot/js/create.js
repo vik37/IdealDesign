@@ -1,0 +1,1 @@
+﻿ document.getElementsByClassName("text-phone")[0].value = "+389/";

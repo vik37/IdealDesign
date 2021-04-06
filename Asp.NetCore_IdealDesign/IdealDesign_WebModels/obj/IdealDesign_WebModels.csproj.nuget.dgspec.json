@@ -4,14 +4,14 @@
     "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj": {
+    "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj",
-        "projectName": "IdealDesign_WebModels",
-        "projectPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj",
+        "projectName": "IdealDesign_Validation",
+        "projectPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,75 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj",
+        "projectName": "IdealDesign_WebModels",
+        "projectPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\IdealDesign_WebModels.csproj",
+        "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_WebModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj": {
+                "projectPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

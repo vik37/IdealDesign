@@ -1189,8 +1189,17 @@
           "IdealDesign_Domain.dll": {}
         }
       },
+      "IdealDesign_Validation/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.1.1"
+        },
+        "runtime": {
+          "IdealDesign_Validation.dll": {}
+        }
+      },
       "IdealDesign_WebModels/1.0.0": {
         "dependencies": {
+          "IdealDesign_Validation": "1.0.0",
           "Microsoft.AspNetCore.Http.Features": "2.1.1"
         },
         "runtime": {
@@ -2002,6 +2011,11 @@
       "sha512": ""
     },
     "IdealDesign_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdealDesign_Validation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

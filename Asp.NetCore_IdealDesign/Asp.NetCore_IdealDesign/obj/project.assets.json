@@ -5383,10 +5383,24 @@
           "bin/placeholder/IdealDesign_Services.dll": {}
         }
       },
+      "IdealDesign_Validation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/IdealDesign_Validation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IdealDesign_Validation.dll": {}
+        }
+      },
       "IdealDesign_WebModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "IdealDesign_Validation": "1.0.0",
           "Microsoft.AspNetCore.Http.Features": "2.1.1"
         },
         "compile": {
@@ -13971,6 +13985,11 @@
       "path": "../IdealDesign_Services/IdealDesign_Services.csproj",
       "msbuildProject": "../IdealDesign_Services/IdealDesign_Services.csproj"
     },
+    "IdealDesign_Validation/1.0.0": {
+      "type": "project",
+      "path": "../IdealDesign_Validation/IdealDesign_Validation.csproj",
+      "msbuildProject": "../IdealDesign_Validation/IdealDesign_Validation.csproj"
+    },
     "IdealDesign_WebModels/1.0.0": {
       "type": "project",
       "path": "../IdealDesign_WebModels/IdealDesign_WebModels.csproj",
@@ -13981,6 +14000,7 @@
     ".NETCoreApp,Version=v2.1": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 5.0.1",
       "IdealDesign_Services >= 1.0.0",
+      "IdealDesign_Validation >= 1.0.0",
       "Microsoft.AspNetCore >= 2.1.7",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Mvc >= 2.1.3",
@@ -14036,6 +14056,9 @@
           "projectReferences": {
             "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Services\\IdealDesign_Services.csproj": {
               "projectPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Services\\IdealDesign_Services.csproj"
+            },
+            "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj": {
+              "projectPath": "C:\\Users\\vikto\\source\\repos\\Prof_Projects\\Asp.NetCore_IdealDesign\\IdealDesign_Validation\\IdealDesign_Validation.csproj"
             }
           }
         }
@@ -14152,7 +14175,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

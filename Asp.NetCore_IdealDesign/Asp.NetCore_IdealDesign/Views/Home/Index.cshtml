@@ -1,61 +1,43 @@
 ﻿@model ProductTypeVM 
 @{
-        ViewData["Title"] = "IDEAL DESIGN";
-        
-    }
+    ViewData["Title"] = "IDEAL DESIGN";
+
+}
 
 <div class="container my-container">
     <div class="slide-container">
-        <div class="mySlide fades">
-            <img src="~/images/Ideal_pic/dressers/dressers_1.jpg" />
-        </div>
-        <div class="mySlide fades">
-            <img src="~/images/Ideal_pic/dressers/dressers_2.jpg" />
-        </div>
-        <div class="mySlide fades">
-            <img src="~/images/Ideal_pic/dressers/dressers_3.jpg" />
-        </div>
-
-        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        @for (int i = 1; i <= 3; i++)
+        {
+            <div class="mySlide fades">
+                <img src="~/images/Ideal_pic/dressers/dressers_@(i).jpg" />
+            </div>
+        }
+        <a class="prev">&#10094;</a>
+        <a class="next">&#10095;</a>
     </div>
-
     <div style="text-align:center">
-        <span class="dot" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-        <span class="dot" onclick="currentSlide(3)"></span>
+        @{int count = 0;}
+        @while (count < 3)
+        {
+            <span class="dot"></span>
+            count++;
+        }
     </div>
-
     <hr />
     <br />
     <div class="context-first">
         <h3>@ViewBag.context1</h3>
-
     </div>
     <br />
     <hr />
     <br />
     <div class="row images">
-        <div class="col-xs-6 col-md-3">
-            
-            <img src="images/Ideal_pic/dressers/dressers_1.jpg" alt="header" style="height:200px" class="thumbnail">
-           
-        </div>
-        <div class="col-xs-6 col-md-3">
-           
-            <img src="images/Ideal_pic/dressers/dressers_2.jpg" alt="header" style="height:200px" class="thumbnail">
-           
-        </div>
-        <div class="col-xs-6 col-md-3">
-           
-            <img src="images/Ideal_pic/dressers/dressers_3.jpg" alt="header" style="height:200px" class="thumbnail">
-            
-        </div>
-        <div class="col-xs-6 col-md-3">
-           
-            <img src="images/Ideal_pic/dressers/dressers_4.jpg" alt="header" style="height:200px" class="thumbnail">
-            
-        </div>
+        @for (int i = 1; i <= 4; i++)
+        {
+            <div class="col-xs-6 col-md-3">
+                <img src="images/Ideal_pic/dressers/dressers_@(i).jpg" alt="header" style="height:200px" class="thumbnail">
+            </div>
+        }
     </div>
     <hr />
     <br />
@@ -66,156 +48,7 @@
     <br />
     <hr />
     <br />
+    <partial name="_BackToTopPartial" />
 </div>
-
-<style type="text/css">         
-    .my-container {              
-         margin-top: 250px;
-         width: 100%;
-         height: auto;
-         background-color: #969696;
-    }
-    .slide-container {
-          position: relative;
-          max-width: 1100px;
-          height: 450px;
-          margin: 0 auto;
-          border: 4px double black;
-          border-radius: 14px;
-    }
-    img {
-          vertical-align: middle;
-          width: 100%;
-          height: 442px;
-          border-radius: 14px;
-          top: -5px;
-    }
-    .mySlide {
-          display: none;
-    }
-    .prev, .next {
-           cursor: pointer;
-           position: absolute;
-           top: 50%;
-           width: auto;
-           margin-top: -22px;
-           padding: 16px;
-           color: white;
-           font-weight: bold;
-           font-size: 18px;
-           transition: 0.6s ease;
-           border-radius: 0 3px 3px 0;
-           user-select: none;
-    }
-    .next {
-           right: 0;
-           border-radius: 3px 0 0 3px;
-    }
-    .prev:hover, .next:hover {
-           background-color: rgba(0,0,0,0.8);
-    }
-    .dot {
-           cursor: pointer;
-           height: 15px;
-           width: 15px;
-           margin: 0 2px;
-           background-color: #bbb;
-           border-radius: 50%;
-           display: inline-block;
-           transition: background-color 0.6s ease;
-    }
-    .active, .dot:hover {
-           background-color: #717171;
-    }
-    .fades {
-           -webkit-animation-name: fade;
-           -webkit-animation-duration: 1.5s;
-            animation-name: fade;
-            animation-duration: 1.5s;
-    }
-    @@-webkit-keyframes fade {
-            from {
-                 opacity: .4
-            }
-
-            to {
-                 opacity: 1
-            }
-    }
-    @@keyframes fade {
-            from {
-                  opacity: .4
-            }
-
-            to {
-                  opacity: 1
-            }
-    }
-    .context-first {
-            text-align: center;
-            color: #fff;
-            background-color: #cccccc;
-            padding-top: 10px;
-            padding-bottom: 10px;
-            width: 75%;
-            margin-left: 190px;
-            border-right: 10px solid black;
-            border-left: 10px solid black;
-            border-radius: 10px;
-            letter-spacing: 1.6px;
-            text-shadow: 2px 2px #0479c2;
-    }       
-</style>
-    <script type="text/javascript">
-        //-- SLIDESHOW  <- LEFT / -> RIGHT --------
-        let slideIndex = 1;
-        showSlide(slideIndex);
-
-        function plusSlides(n) {
-            showSlide(slideIndex += n);
-        }
-
-        function currentSlide(n) {
-            showSlide(slideIndex = n);
-        }
-
-        function showSlide(n) {
-            //let i;
-            let slides = document.getElementsByClassName("mySlide");
-            let dot = document.getElementsByClassName("dot");
-            if (n > slides.length) { slideIndex = 1 }
-            if (n < 1) { slideIndex = slides.length }
-            for (let i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-
-            for (var i = 0; i < dot.length; i++) {
-                dot[i].className = dot[i].className.replace(" active", "");
-            }
-            slides[slideIndex - 1].style.display = "block";
-            dot[slideIndex - 1].className += " active";
-        }
-
-        //-- SLIDESHOW AUTOMATIC --------
-
-        var slideIndexes = 0;
-        showSlides();
-
-        function showSlides() {
-            var i;
-            var slides = document.getElementsByClassName("mySlide");
-            var dots = document.getElementsByClassName("dot");
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            slideIndexes++;
-            if (slideIndexes > slides.length) { slideIndexes = 1 }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[slideIndexes - 1].style.display = "block";
-            dots[slideIndexes - 1].className += " active";
-            setTimeout(showSlides, 9000); // Change image every 2 seconds
-        }
-
-    </script>
+<link href="~/css/Home/home.css" rel="stylesheet" />
+<script src="~/js/home.js"></script>

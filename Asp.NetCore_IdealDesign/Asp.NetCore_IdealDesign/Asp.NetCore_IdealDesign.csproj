@@ -125,11 +125,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\IdealDesign_Services\IdealDesign_Services.csproj" />
+    <ProjectReference Include="..\IdealDesign_Validation\IdealDesign_Validation.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\data\resumes\" />
-    <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
 

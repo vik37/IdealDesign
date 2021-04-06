@@ -59,37 +59,7 @@ namespace IdealDesign_DataAccess
                 {
                     RoleId = roleId,
                     UserId = adminId
-                });
-
-            //modelBuilder.Entity<Product>()
-            //    .HasData(new Product
-            //    {
-            //        Id = 1,
-            //        Name = "Small Kitchen",
-            //        Description = "See small kitchens and get small kitchen design ideas from cabinets to countertops, appliances, sinks, " +
-            //                       "backsplashes, storage and more.",
-            //        ProductType = ProductTypes.Kitchens
-            //    },
-            //    new Product 
-            //    {
-            //        Id = 2,
-            //        Name = "Modern Bathrooms",
-            //        Description = "Hydromassage columns in Solid Surface, " +
-            //                      "WCs with incorporated bidet or smart bathroom " +
-            //                      "furniture units for those who do not settle for the usual.",
-            //        ProductType = ProductTypes.WallBeds
-            //    },
-            //    new Product 
-            //    {
-            //        Id = 3,
-            //        Name = "Home Office Design",
-            //        Description = "A dedicated work space in your home helps you set aside household distractions and focus on work. " +
-            //                      "Here, we’ve gathered 65 home office ideas that will inspire you to design a work-friendly space in your own home. " +
-            //                      "These home offices, located everywhere from Beverly Hills to Brooklyn, " +
-            //                      "have one thing in common: a sophisticated space secluded from such tempting distractions as TV and snacks.",
-            //        ProductType = ProductTypes.Other
-            //    });
-
+                });           
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

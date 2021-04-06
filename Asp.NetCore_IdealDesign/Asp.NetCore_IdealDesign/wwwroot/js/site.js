@@ -1,4 +1,2 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
+﻿
+!function () { let e = { main: document.getElementsByClassName("my-container")[0], toggle: document.getElementsByClassName("navbar-toggle")[0], toggle2: document.getElementsByClassName("navbar-toggle")[1], init: function () { e.toggle.addEventListener("click", e.slideNavDown), e.toggle2.addEventListener("click", e.slideNavUp) }, slideNavDown: function () { e.main.style = "margin-top:200px;transition:margin-top 1.4s", e.toggle2.style.display = "block", e.toggle.style.display = "none" }, slideNavUp: function () { e.main.style = "margin-top:1px;transition:margin-top 3s", e.toggle.style.display = "block", e.toggle2.style.display = "none" } }; e.toggle2.style.display = "none", e.init() }();

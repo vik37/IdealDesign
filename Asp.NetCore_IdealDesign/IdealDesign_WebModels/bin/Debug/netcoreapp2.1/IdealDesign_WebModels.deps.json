@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "IdealDesign_WebModels/1.0.0": {
         "dependencies": {
+          "IdealDesign_Validation": "1.0.0",
           "Microsoft.AspNetCore.Http.Features": "2.1.1"
         },
         "runtime": {
@@ -45,6 +46,14 @@
             "fileVersion": "0.0.0.0"
           }
         }
+      },
+      "IdealDesign_Validation/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.1.1"
+        },
+        "runtime": {
+          "IdealDesign_Validation.dll": {}
+        }
       }
     }
   },
@@ -81,6 +90,11 @@
       "sha512": "sha512-Zh8t8oqolRaFa9vmOZfdQm/qKejdqz0J9kr7o2Fu0vPeoH3BL1EOXipKWwkWtLT1JPzjByrF19fGuFlNbmPpiw==",
       "path": "system.runtime.compilerservices.unsafe/4.5.1",
       "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    },
+    "IdealDesign_Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

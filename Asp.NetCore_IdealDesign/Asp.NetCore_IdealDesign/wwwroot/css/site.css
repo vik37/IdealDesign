@@ -1,14 +1,37 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
 for details on configuring this project to bundle and minify static web assets. */
 body {
-    padding-top: 50px;
+    /*padding-top: 50px;*/
     padding-bottom: 20px;
     background-color: black;
+}
+.my-container {
+    width: 100%;
+    height: auto;
+    background-color: #969696;
+    padding: 0 50px 0 50px;
+}
+h2 {
+    font-size: 28px;
+    color: rgba(64, 160, 219,0.8);
+    text-shadow: 2px 2px 3px #fff;
+    letter-spacing: 3.5px;
+    text-decoration: underline;
+    font-family: 'Felix Titling';
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.64);
+    text-align: center;
+    width: 750px;
+    height: 40px;
+    margin: 0 auto;
+    padding: 2px;
+    border-radius: 60px;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
 }
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
- 
 /* Carousel */
 .carousel-caption p {
     font-size: 20px;
@@ -18,6 +41,11 @@ body {
 /* Make .svg files in the carousel display properly in older browsers */
 .carousel-inner .item img[src$=".svg"] {
     width: 100%;
+}
+.image-heading {
+    margin-top:10px;
+    width: 370px;
+    height: 210px;
 }
 
 /* QR code generator */
@@ -31,13 +59,21 @@ footer {
     padding-left:50px;
     left: 0;
     right: 0;
-    width: 100%;
+    max-width: 100%;
     height: 50px;
     border-top: 2px solid rgba(255, 255, 255, 0.6);
     border-bottom: 2px solid rgba(255, 255, 255, 0.6);
     color:white;
 }
-
+@media (max-width: 1200px){
+    .navbar-inverse {
+        height:350px;
+    }
+    footer{
+        padding-left:20px;
+        height:80px;
+    }
+}
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
     /* Hide captions */
@@ -45,15 +81,36 @@ footer {
         display: none;
     }
 }
+@media (max-width: 850px){
+    h2 {
+        width: 500px;
+        height:70px;
+    }
+}
 @media (max-width: 767px) {
     .navbar-collapse {
-        background-color: rgba(51, 87, 61,0.4);
+        background-color: rgb(0 0 0);
+        z-index:1000;       
     }
-    .nav{
-        margin-bottom:50px;
+    .image-heading{
+        margin-top:15px;
+        margin-bottom:0;
+        height:180px;
+        width:420px;        
     }
-    li{
-        
-        padding:2px;
+    h2 {
+        width: 300px;
+    }
+    footer{
+        height:150px;
+    }   
+}
+
+@media only screen and (max-width: 400px){
+    .image-heading{
+        width:300px;
+    }
+    h2{
+        margin-left:-25px;
     }
 }

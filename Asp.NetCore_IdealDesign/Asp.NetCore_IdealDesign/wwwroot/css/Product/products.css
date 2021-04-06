@@ -1,0 +1,64 @@
+﻿.header-title {
+    margin-left: 35px;
+}
+.btns {
+    width: 230px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 3px solid black;
+    box-shadow: rgba(177, 33, 33, 0.82) 10px 10px 50px inset;
+    outline-offset: 3px;
+    outline-style: inset;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    text-shadow: 2px 2px 3px #fff;
+    text-decoration: dotted;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.btn-log {
+    background-color: rgba(36, 122, 160, 0.71);
+    border: 1px solid rgb(255, 106, 0);
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: rgba(2, 2, 2, 0.18) 1px 1px 1px 10px inset;
+    text-shadow: 1px 1px 3px #fff;
+    border-radius: 30px;
+    transform: skewX(-10deg);
+    transition: transform 0.8s;
+}
+
+    .btn-log:active {
+        border-radius: 2px;
+        box-shadow: rgba(2, 2, 2, 0.28) 1px 1px 1px 3px;
+    }
+
+    .btn-log:hover {
+        transform: skewX(2deg);
+    }
+
+@media (max-width: 767px) {
+    .btns {
+        margin-left: 75px;
+    }
+}
+
+@media (max-width: 840px) and (min-width: 768px) {
+    .btns {
+        width: 200px;
+        margin-left: 25px;
+    }
+}
+@media only screen and (max-width: 400px){
+    .btns{
+        margin-left:5px;
+    }
+    .header-title{
+        margin-left:-5px;
+    }
+}
